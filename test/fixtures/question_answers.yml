@@ -1,0 +1,108 @@
+<% 3.times do |n| %>
+  scd_q<%= n %>_1:
+    question: q<%= n %>
+    answer: nev
+  scd_q<%= n %>_2:
+    question: q<%= n %>
+    answer: anev
+  scd_q<%= n %>_3:
+    question: q<%= n %>
+    answer: some
+  scd_q<%= n %>_4:
+    question: q<%= n %>
+    answer: often
+  scd_q<%= n %>_5:
+    question: q<%= n %>
+    answer: aalw
+<% end %>
+
+# body pain question
+# intensity
+scd_q4_1:
+  question: q4
+  answer: one
+
+scd_q4_2:
+  question: q4
+  answer: two
+
+scd_q4_3:
+  question: q4
+  answer: three
+
+scd_q4_4:
+  question: q4
+  answer: four
+
+scd_q4_5:
+  question: q4
+  answer: five
+
+scd_q4_6:
+  question: q4
+  answer: six
+
+scd_q4_7:
+  question: q4
+  answer: seven
+
+scd_q4_8:
+  question: q4
+  answer: eight
+
+scd_q4_9:
+  question: q4
+  answer: nine
+
+scd_q4_10:
+  question: q4
+  answer: ten
+
+# location
+scd_q4_11:
+  question: q4
+  answer: fh
+
+scd_q4_12:
+  question: q4
+  answer: bh
+
+scd_q4_13:
+  question: q4
+  answer: fla
+
+scd_q4_14:
+  question: q4
+  answer: bla
+
+scd_q4_15:
+  question: q4
+  answer: fra
+
+scd_q4_16:
+  question: q4
+  answer: bra
+
+scd_q4_17:
+  question: q4
+  answer: ft
+
+scd_q4_18:
+  question: q4
+  answer: bt
+
+scd_q4_19:
+  question: q4
+  answer: fll
+
+scd_q4_20:
+  question: q4
+  answer: bll
+
+scd_q4_21:
+  question: q4
+  answer: frl
+
+scd_q4_22:
+  question: q4
+  answer: brl

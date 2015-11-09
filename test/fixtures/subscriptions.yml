@@ -1,0 +1,14 @@
+s1:
+  patient: patient1
+  form_type: SCD_form
+  next_reading: <%= Time.now %>
+
+s2:
+  patient: patient2
+  form_type: SCD_form
+  next_reading: <%= Time.now %>
+
+s3:
+  patient: patient3
+  form_type: SCD_form
+  next_reading: <%= (Time.now + (7*24*60*60)) %>

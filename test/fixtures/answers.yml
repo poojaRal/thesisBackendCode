@@ -1,0 +1,98 @@
+nev:
+  text: Never
+
+anev:
+  text: Almost Never
+
+some:
+  text: Sometimes
+
+often:
+  text: Often
+
+aalw:
+  text: Almost Always
+
+notroub:
+  text: With no trouble
+
+littroub:
+  text: With a little trouble
+
+sometroub:
+  text: With some trouble
+
+lottroub:
+  text: With a lot of trouble
+
+notable:
+  text: Not able to do
+
+# body pain answers
+# intensity
+one:
+  text: 1
+
+two:
+  text: 2
+
+three:
+  text: 3
+
+four:
+  text: 4
+
+five:
+  text: 5
+
+six:
+  text: 6
+
+seven:
+  text: 7
+
+eight:
+  text: 8
+
+nine:
+  text: 9
+
+ten:
+  text: 10
+
+# location
+fh:
+  text: front head
+
+bh:
+  text: back head
+
+fla:
+  text: front left arm
+
+bla:
+  text: back right arm
+
+fra:
+  text: front right arm
+
+bra:
+  text: back right arm
+
+ft:
+  text: front torse
+
+bt:
+  text: back torso
+
+fll:
+  text: front left leg
+
+bll:
+  text: back left leg
+
+frl:
+  text: front right leg
+
+brl:
+  text: back right leg

@@ -1,0 +1,6 @@
+<%= link_to activate_path(:trial => @trial.id), :remote => true do %>
+  <button type="button" class="btn btn-info">Activate next available pin</button>
+<% end %>
+<input type="text" placeholder="next pin shown here" value="<%= @pin %>" readonly/>
+<input type="text" placeholder="start time shown here" value="<%= @stime %>" readonly/>
+<input type="text" placeholder="end time shown here" value="<%= @etime %>" readonly/>

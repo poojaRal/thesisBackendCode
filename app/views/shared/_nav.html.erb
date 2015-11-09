@@ -1,0 +1,25 @@
+<div class='navbar navbar-default navbar-static-top'>
+  <nav class='container'>
+
+    <div class='navbar-header'>
+      <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-ex1-collapse'>
+        <span class='sr-only'>Toggle navigation</span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+      </button>
+      <a class='navbar-brand' href='/'>PainReport Portal</a>
+    </div>
+
+    <div class='collapse navbar-collapse'>
+      <ul class='nav navbar-nav pull-right' id='nav-items'>
+        <li class=<%= 'active' if params[:controller] == 'dashboard' %>><a href='/'>Dashboard</a></li>
+        <li class=''>
+          <% if user_signed_in? %>
+            <%= link_to("Sign Out", sign_out_path, :method => :delete) %>
+          <% end %>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>

@@ -1,0 +1,20 @@
+patient1_week1:
+  patient: patient1
+  form_type: SCD_form
+  start_time: <%= Time.now %>
+  end_time: <%= (Time.now + (7*24*60*60)) %>
+  completed: false
+
+patient2_week1:
+  patient: patient2
+  form_type: SCD_form
+  start_time: <%= Time.now %>
+  end_time: <%= (Time.now + (7*24*60*60)) %>
+  completed: false
+
+patient3_week1:
+  patient: patient3
+  form_type: SCD_form
+  start_time: <%= Time.now %>
+  end_time:  <%= (Time.now + (7*24*60*60)) %>
+  completed: true

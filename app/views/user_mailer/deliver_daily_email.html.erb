@@ -1,0 +1,12 @@
+ <h2>Hello,</h2>
+ <br>
+ <br>
+ Here is your daily digest from the PainReport Portal:
+ <b>Critical Patients</b>
+ <ul>
+   <% for cp in @critical_patients %>
+     <li><%= cp.PIN %></li>
+   <% end %>
+ </ul>
+
+ -PainReport Portal

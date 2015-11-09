@@ -1,0 +1,1639 @@
+I, [2015-06-24T12:03:56.860747 #11094]  INFO -- : Refreshing Gem list
+I, [2015-06-24T12:03:58.485631 #11094]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-06-24T12:03:58.542238 #11099]  INFO -- : worker=0 ready
+I, [2015-06-24T12:03:58.573825 #11102]  INFO -- : worker=1 ready
+I, [2015-06-24T12:03:58.615014 #11105]  INFO -- : worker=2 ready
+I, [2015-06-24T12:03:58.625440 #11094]  INFO -- : master process ready
+I, [2015-06-24T12:03:58.648562 #11108]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-06-24T12:21:35.092764 #11094]  INFO -- : reaped #<Process::Status: pid 11099 exit 0> worker=0
+I, [2015-06-24T12:21:35.093717 #11094]  INFO -- : reaped #<Process::Status: pid 11102 exit 0> worker=1
+I, [2015-06-24T12:21:35.093819 #11094]  INFO -- : reaped #<Process::Status: pid 11105 exit 0> worker=2
+I, [2015-06-24T12:21:35.093871 #11094]  INFO -- : reaped #<Process::Status: pid 11108 exit 0> worker=3
+I, [2015-06-24T12:21:35.093956 #11094]  INFO -- : master complete
+I, [2015-06-24T12:21:51.791982 #11578]  INFO -- : Refreshing Gem list
+I, [2015-06-24T12:21:53.400742 #11578]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-06-24T12:21:53.455557 #11583]  INFO -- : worker=0 ready
+I, [2015-06-24T12:21:53.490648 #11586]  INFO -- : worker=1 ready
+I, [2015-06-24T12:21:53.521865 #11589]  INFO -- : worker=2 ready
+I, [2015-06-24T12:21:53.537568 #11578]  INFO -- : master process ready
+I, [2015-06-24T12:21:53.560553 #11592]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-01T13:40:45.651113 #11578]  INFO -- : reaped #<Process::Status: pid 11583 exit 0> worker=0
+I, [2015-07-01T13:40:45.651412 #11578]  INFO -- : reaped #<Process::Status: pid 11586 exit 0> worker=1
+I, [2015-07-01T13:40:45.651498 #11578]  INFO -- : reaped #<Process::Status: pid 11589 exit 0> worker=2
+I, [2015-07-01T13:40:45.651573 #11578]  INFO -- : reaped #<Process::Status: pid 11592 exit 0> worker=3
+I, [2015-07-01T13:40:45.651713 #11578]  INFO -- : master complete
+I, [2015-07-01T13:41:03.482266 #18498]  INFO -- : Refreshing Gem list
+I, [2015-07-01T13:41:05.150711 #18498]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-01T13:41:05.207559 #18505]  INFO -- : worker=0 ready
+I, [2015-07-01T13:41:05.240199 #18508]  INFO -- : worker=1 ready
+I, [2015-07-01T13:41:05.273860 #18511]  INFO -- : worker=2 ready
+I, [2015-07-01T13:41:05.289567 #18498]  INFO -- : master process ready
+I, [2015-07-01T13:41:05.315020 #18514]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-01T13:44:23.828807 #18498]  INFO -- : reaped #<Process::Status: pid 18505 exit 0> worker=0
+I, [2015-07-01T13:44:23.829039 #18498]  INFO -- : reaped #<Process::Status: pid 18508 exit 0> worker=1
+I, [2015-07-01T13:44:23.829130 #18498]  INFO -- : reaped #<Process::Status: pid 18511 exit 0> worker=2
+I, [2015-07-01T13:44:23.829218 #18498]  INFO -- : reaped #<Process::Status: pid 18514 exit 0> worker=3
+I, [2015-07-01T13:44:23.829367 #18498]  INFO -- : master complete
+I, [2015-07-01T13:44:45.615330 #18664]  INFO -- : Refreshing Gem list
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/validations.rb:57:in `save!': Validation failed: Email is invalid, Password is too short (minimum is 8 characters) (ActiveRecord::RecordInvalid)
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/attribute_methods/dirty.rb:41:in `save!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/transactions.rb:275:in `block in save!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/transactions.rb:326:in `block in with_transaction_returning_status'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/connection_adapters/abstract/database_statements.rb:202:in `block in transaction'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/connection_adapters/abstract/database_statements.rb:210:in `within_new_transaction'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/connection_adapters/abstract/database_statements.rb:202:in `transaction'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/transactions.rb:209:in `transaction'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/transactions.rb:323:in `with_transaction_returning_status'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activerecord-4.0.2/lib/active_record/transactions.rb:275:in `save!'
+	from /home/promis/PainReportPortal/app/models/user.rb:19:in `create_new'
+	from /home/promis/PainReportPortal/app/controllers/dashboard_controller.rb:7:in `<class:DashboardController>'
+	from /home/promis/PainReportPortal/app/controllers/dashboard_controller.rb:1:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-07-01T13:46:59.837840 #18835]  INFO -- : Refreshing Gem list
+I, [2015-07-01T13:47:01.467973 #18835]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-01T13:47:01.525433 #18840]  INFO -- : worker=0 ready
+I, [2015-07-01T13:47:01.558097 #18843]  INFO -- : worker=1 ready
+I, [2015-07-01T13:47:01.590253 #18846]  INFO -- : worker=2 ready
+I, [2015-07-01T13:47:01.607818 #18835]  INFO -- : master process ready
+I, [2015-07-01T13:47:01.631939 #18849]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-01T15:41:58.702403 #18835]  INFO -- : reaped #<Process::Status: pid 18840 exit 0> worker=0
+I, [2015-07-01T15:41:58.702728 #18835]  INFO -- : reaped #<Process::Status: pid 18843 exit 0> worker=1
+I, [2015-07-01T15:41:58.702809 #18835]  INFO -- : reaped #<Process::Status: pid 18846 exit 0> worker=2
+I, [2015-07-01T15:41:58.702898 #18835]  INFO -- : reaped #<Process::Status: pid 18849 exit 0> worker=3
+I, [2015-07-01T15:41:58.703072 #18835]  INFO -- : master complete
+I, [2015-07-01T15:42:13.844217 #21119]  INFO -- : Refreshing Gem list
+I, [2015-07-01T15:42:15.464407 #21119]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-01T15:42:15.521486 #21124]  INFO -- : worker=0 ready
+I, [2015-07-01T15:42:15.553065 #21127]  INFO -- : worker=1 ready
+I, [2015-07-01T15:42:15.586270 #21130]  INFO -- : worker=2 ready
+I, [2015-07-01T15:42:15.603963 #21119]  INFO -- : master process ready
+I, [2015-07-01T15:42:15.624944 #21133]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-01T16:02:28.854106 #21119]  INFO -- : reaped #<Process::Status: pid 21133 exit 0> worker=3
+I, [2015-07-01T16:02:28.954718 #21119]  INFO -- : reaped #<Process::Status: pid 21124 exit 0> worker=0
+I, [2015-07-01T16:02:28.954902 #21119]  INFO -- : reaped #<Process::Status: pid 21127 exit 0> worker=1
+I, [2015-07-01T16:02:28.954991 #21119]  INFO -- : reaped #<Process::Status: pid 21130 exit 0> worker=2
+I, [2015-07-01T16:02:28.955133 #21119]  INFO -- : master complete
+I, [2015-07-01T16:02:41.457667 #21778]  INFO -- : Refreshing Gem list
+I, [2015-07-01T16:02:43.080078 #21778]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-01T16:02:43.135947 #21783]  INFO -- : worker=0 ready
+I, [2015-07-01T16:02:43.166452 #21786]  INFO -- : worker=1 ready
+I, [2015-07-01T16:02:43.202359 #21789]  INFO -- : worker=2 ready
+I, [2015-07-01T16:02:43.219819 #21778]  INFO -- : master process ready
+I, [2015-07-01T16:02:43.244361 #21792]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-01T16:07:09.406177 #21778]  INFO -- : reaped #<Process::Status: pid 21783 exit 0> worker=0
+I, [2015-07-01T16:07:09.406340 #21778]  INFO -- : reaped #<Process::Status: pid 21786 exit 0> worker=1
+I, [2015-07-01T16:07:09.406394 #21778]  INFO -- : reaped #<Process::Status: pid 21789 exit 0> worker=2
+I, [2015-07-01T16:07:09.406447 #21778]  INFO -- : reaped #<Process::Status: pid 21792 exit 0> worker=3
+I, [2015-07-01T16:07:09.406539 #21778]  INFO -- : master complete
+I, [2015-07-01T16:07:22.314495 #21929]  INFO -- : Refreshing Gem list
+I, [2015-07-01T16:07:23.943634 #21929]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-01T16:07:24.003625 #21934]  INFO -- : worker=0 ready
+I, [2015-07-01T16:07:24.038638 #21937]  INFO -- : worker=1 ready
+I, [2015-07-01T16:07:24.074718 #21940]  INFO -- : worker=2 ready
+I, [2015-07-01T16:07:24.087766 #21929]  INFO -- : master process ready
+I, [2015-07-01T16:07:24.111304 #21943]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-01T16:10:37.777798 #21929]  INFO -- : reaped #<Process::Status: pid 21940 exit 0> worker=2
+I, [2015-07-01T16:10:37.878306 #21929]  INFO -- : reaped #<Process::Status: pid 21934 exit 0> worker=0
+I, [2015-07-01T16:10:37.878457 #21929]  INFO -- : reaped #<Process::Status: pid 21937 exit 0> worker=1
+I, [2015-07-01T16:10:37.878512 #21929]  INFO -- : reaped #<Process::Status: pid 21943 exit 0> worker=3
+I, [2015-07-01T16:10:37.878647 #21929]  INFO -- : master complete
+I, [2015-07-01T16:10:55.064499 #22043]  INFO -- : Refreshing Gem list
+I, [2015-07-01T16:10:56.678358 #22043]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-01T16:10:56.733911 #22048]  INFO -- : worker=0 ready
+I, [2015-07-01T16:10:56.770391 #22051]  INFO -- : worker=1 ready
+I, [2015-07-01T16:10:56.804254 #22054]  INFO -- : worker=2 ready
+I, [2015-07-01T16:10:56.819462 #22043]  INFO -- : master process ready
+I, [2015-07-01T16:10:56.844527 #22057]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-02T08:54:15.072083 #22043]  INFO -- : reaped #<Process::Status: pid 22051 exit 0> worker=1
+I, [2015-07-02T08:54:15.072330 #22043]  INFO -- : reaped #<Process::Status: pid 22054 exit 0> worker=2
+I, [2015-07-02T08:54:15.072425 #22043]  INFO -- : reaped #<Process::Status: pid 22057 exit 0> worker=3
+I, [2015-07-02T08:54:15.172796 #22043]  INFO -- : reaped #<Process::Status: pid 22048 exit 0> worker=0
+I, [2015-07-02T08:54:15.172990 #22043]  INFO -- : master complete
+I, [2015-07-02T08:54:33.684313 #5940]  INFO -- : Refreshing Gem list
+I, [2015-07-02T08:54:35.315452 #5940]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-02T08:54:35.369575 #5945]  INFO -- : worker=0 ready
+I, [2015-07-02T08:54:35.405644 #5948]  INFO -- : worker=1 ready
+I, [2015-07-02T08:54:35.440045 #5951]  INFO -- : worker=2 ready
+I, [2015-07-02T08:54:35.455455 #5940]  INFO -- : master process ready
+I, [2015-07-02T08:54:35.480359 #5954]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-02T08:56:39.577851 #5940]  INFO -- : reaped #<Process::Status: pid 5954 exit 0> worker=3
+I, [2015-07-02T08:56:39.678384 #5940]  INFO -- : reaped #<Process::Status: pid 5945 exit 0> worker=0
+I, [2015-07-02T08:56:39.678560 #5940]  INFO -- : reaped #<Process::Status: pid 5948 exit 0> worker=1
+I, [2015-07-02T08:56:39.678743 #5940]  INFO -- : reaped #<Process::Status: pid 5951 exit 0> worker=2
+I, [2015-07-02T08:56:39.678892 #5940]  INFO -- : master complete
+I, [2015-07-02T08:57:02.779800 #6028]  INFO -- : Refreshing Gem list
+I, [2015-07-02T08:57:04.400877 #6028]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-02T08:57:04.457542 #6033]  INFO -- : worker=0 ready
+I, [2015-07-02T08:57:04.495274 #6036]  INFO -- : worker=1 ready
+I, [2015-07-02T08:57:04.528379 #6039]  INFO -- : worker=2 ready
+I, [2015-07-02T08:57:04.542691 #6028]  INFO -- : master process ready
+I, [2015-07-02T08:57:04.568288 #6042]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-09T11:37:47.987019 #6028]  INFO -- : reaped #<Process::Status: pid 6033 exit 0> worker=0
+I, [2015-07-09T11:37:47.987277 #6028]  INFO -- : reaped #<Process::Status: pid 6036 exit 0> worker=1
+I, [2015-07-09T11:37:47.987346 #6028]  INFO -- : reaped #<Process::Status: pid 6039 exit 0> worker=2
+I, [2015-07-09T11:37:47.987416 #6028]  INFO -- : reaped #<Process::Status: pid 6042 exit 0> worker=3
+I, [2015-07-09T11:37:47.987549 #6028]  INFO -- : master complete
+I, [2015-07-09T11:38:11.839362 #9325]  INFO -- : Refreshing Gem list
+I, [2015-07-09T11:38:13.463038 #9325]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-09T11:38:13.520351 #9330]  INFO -- : worker=0 ready
+I, [2015-07-09T11:38:13.558960 #9333]  INFO -- : worker=1 ready
+I, [2015-07-09T11:38:13.592905 #9336]  INFO -- : worker=2 ready
+I, [2015-07-09T11:38:13.606717 #9325]  INFO -- : master process ready
+I, [2015-07-09T11:38:13.628500 #9339]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-10T15:07:16.930237 #9325]  INFO -- : reaped #<Process::Status: pid 9330 exit 0> worker=0
+I, [2015-07-10T15:07:17.031663 #9325]  INFO -- : reaped #<Process::Status: pid 9333 exit 0> worker=1
+I, [2015-07-10T15:07:17.031849 #9325]  INFO -- : reaped #<Process::Status: pid 9336 exit 0> worker=2
+I, [2015-07-10T15:07:17.031952 #9325]  INFO -- : reaped #<Process::Status: pid 9339 exit 0> worker=3
+I, [2015-07-10T15:07:17.032142 #9325]  INFO -- : master complete
+I, [2015-07-10T15:15:52.837988 #6164]  INFO -- : Refreshing Gem list
+I, [2015-07-10T15:15:54.472154 #6164]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-10T15:15:54.529300 #6169]  INFO -- : worker=0 ready
+I, [2015-07-10T15:15:54.564884 #6172]  INFO -- : worker=1 ready
+I, [2015-07-10T15:15:54.598200 #6175]  INFO -- : worker=2 ready
+I, [2015-07-10T15:15:54.613717 #6164]  INFO -- : master process ready
+I, [2015-07-10T15:15:54.633753 #6178]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-18T17:13:07.228049 #6164]  INFO -- : reaped #<Process::Status: pid 6169 exit 0> worker=0
+I, [2015-07-18T17:13:07.228322 #6164]  INFO -- : reaped #<Process::Status: pid 6172 exit 0> worker=1
+I, [2015-07-18T17:13:07.228448 #6164]  INFO -- : reaped #<Process::Status: pid 6175 exit 0> worker=2
+I, [2015-07-18T17:13:07.228517 #6164]  INFO -- : reaped #<Process::Status: pid 6178 exit 0> worker=3
+I, [2015-07-18T17:13:07.228681 #6164]  INFO -- : master complete
+I, [2015-07-18T17:13:27.350706 #5140]  INFO -- : Refreshing Gem list
+I, [2015-07-18T17:13:28.970700 #5140]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-18T17:13:29.033304 #5145]  INFO -- : worker=0 ready
+I, [2015-07-18T17:13:29.067161 #5148]  INFO -- : worker=1 ready
+I, [2015-07-18T17:13:29.101806 #5151]  INFO -- : worker=2 ready
+I, [2015-07-18T17:13:29.117010 #5140]  INFO -- : master process ready
+I, [2015-07-18T17:13:29.138083 #5154]  INFO -- : worker=3 ready
+I, [2015-07-22T10:18:42.228627 #5140]  INFO -- : reaped #<Process::Status: pid 5145 exit 0> worker=0
+I, [2015-07-22T10:18:42.228970 #5140]  INFO -- : reaped #<Process::Status: pid 5148 exit 0> worker=1
+I, [2015-07-22T10:18:42.229071 #5140]  INFO -- : reaped #<Process::Status: pid 5151 exit 0> worker=2
+I, [2015-07-22T10:18:42.229276 #5140]  INFO -- : reaped #<Process::Status: pid 5154 exit 0> worker=3
+I, [2015-07-22T10:18:42.229582 #5140]  INFO -- : master complete
+I, [2015-07-22T10:19:36.509820 #27056]  INFO -- : Refreshing Gem list
+I, [2015-07-22T10:19:38.129833 #27056]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-07-22T10:19:38.187940 #27061]  INFO -- : worker=0 ready
+I, [2015-07-22T10:19:38.224398 #27064]  INFO -- : worker=1 ready
+I, [2015-07-22T10:19:38.257207 #27067]  INFO -- : worker=2 ready
+I, [2015-07-22T10:19:38.272120 #27056]  INFO -- : master process ready
+I, [2015-07-22T10:19:38.296277 #27070]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-07-31T20:16:11.673565 #27056]  INFO -- : reaped #<Process::Status: pid 27061 exit 0> worker=0
+I, [2015-07-31T20:16:11.673846 #27056]  INFO -- : reaped #<Process::Status: pid 27064 exit 0> worker=1
+I, [2015-07-31T20:16:11.673932 #27056]  INFO -- : reaped #<Process::Status: pid 27067 exit 0> worker=2
+I, [2015-07-31T20:16:11.674020 #27056]  INFO -- : reaped #<Process::Status: pid 27070 exit 0> worker=3
+I, [2015-07-31T20:16:11.674326 #27056]  INFO -- : master complete
+I, [2015-08-06T16:07:18.970899 #20816]  INFO -- : Refreshing Gem list
+I, [2015-08-06T16:07:26.273778 #20816]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-08-06T16:07:26.438920 #20816]  INFO -- : master process ready
+I, [2015-08-06T16:07:26.444231 #20823]  INFO -- : worker=0 ready
+I, [2015-08-06T16:07:26.454054 #20826]  INFO -- : worker=1 ready
+I, [2015-08-06T16:07:26.467393 #20831]  INFO -- : worker=3 ready
+I, [2015-08-06T16:07:26.463776 #20829]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-09-18T17:07:33.046446 #20816]  INFO -- : reaped #<Process::Status: pid 20823 exit 0> worker=0
+I, [2015-09-18T17:07:33.046754 #20816]  INFO -- : reaped #<Process::Status: pid 20829 exit 0> worker=2
+I, [2015-09-18T17:07:33.046910 #20816]  INFO -- : reaped #<Process::Status: pid 20831 exit 0> worker=3
+I, [2015-09-18T17:07:33.148274 #20816]  INFO -- : reaped #<Process::Status: pid 20826 exit 0> worker=1
+I, [2015-09-18T17:07:33.148557 #20816]  INFO -- : master complete
+I, [2015-09-18T17:08:22.702575 #25322]  INFO -- : Refreshing Gem list
+I, [2015-09-18T17:08:25.422880 #25322]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-09-18T17:08:25.436552 #25327]  INFO -- : worker=0 ready
+I, [2015-09-18T17:08:25.441965 #25322]  INFO -- : master process ready
+I, [2015-09-18T17:08:25.460480 #25332]  INFO -- : worker=2 ready
+I, [2015-09-18T17:08:25.463074 #25330]  INFO -- : worker=1 ready
+I, [2015-09-18T17:08:25.463702 #25335]  INFO -- : worker=3 ready
+I, [2015-09-18T17:25:31.136570 #25322]  INFO -- : reaped #<Process::Status: pid 25327 exit 0> worker=0
+I, [2015-09-18T17:25:31.136988 #25322]  INFO -- : reaped #<Process::Status: pid 25330 exit 0> worker=1
+I, [2015-09-18T17:25:31.137137 #25322]  INFO -- : reaped #<Process::Status: pid 25332 exit 0> worker=2
+I, [2015-09-18T17:25:31.137266 #25322]  INFO -- : reaped #<Process::Status: pid 25335 exit 0> worker=3
+I, [2015-09-18T17:25:31.137418 #25322]  INFO -- : master complete
+I, [2015-09-18T17:26:50.347350 #26192]  INFO -- : Refreshing Gem list
+I, [2015-09-18T17:26:52.867960 #26192]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-09-18T17:26:52.906851 #26192]  INFO -- : master process ready
+I, [2015-09-18T17:26:52.914993 #26199]  INFO -- : worker=1 ready
+I, [2015-09-18T17:26:52.920956 #26197]  INFO -- : worker=0 ready
+I, [2015-09-18T17:26:52.923052 #26202]  INFO -- : worker=2 ready
+I, [2015-09-18T17:26:52.930026 #26205]  INFO -- : worker=3 ready
+I, [2015-09-18T17:39:44.010815 #26192]  INFO -- : reaped #<Process::Status: pid 26205 exit 0> worker=3
+I, [2015-09-18T17:39:44.111561 #26192]  INFO -- : reaped #<Process::Status: pid 26197 exit 0> worker=0
+I, [2015-09-18T17:39:44.111757 #26192]  INFO -- : reaped #<Process::Status: pid 26199 exit 0> worker=1
+I, [2015-09-18T17:39:44.111883 #26192]  INFO -- : reaped #<Process::Status: pid 26202 exit 0> worker=2
+I, [2015-09-18T17:39:44.112082 #26192]  INFO -- : master complete
+I, [2015-09-18T17:40:02.734787 #26769]  INFO -- : Refreshing Gem list
+I, [2015-09-18T17:40:05.484485 #26769]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-09-18T17:40:05.499481 #26776]  INFO -- : worker=1 ready
+I, [2015-09-18T17:40:05.501894 #26769]  INFO -- : master process ready
+I, [2015-09-18T17:40:05.512170 #26779]  INFO -- : worker=2 ready
+I, [2015-09-18T17:40:05.517353 #26774]  INFO -- : worker=0 ready
+I, [2015-09-18T17:40:05.519501 #26782]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-09-22T18:03:39.976325 #26769]  INFO -- : reaped #<Process::Status: pid 26774 exit 0> worker=0
+I, [2015-09-22T18:03:40.077264 #26769]  INFO -- : reaped #<Process::Status: pid 26776 exit 0> worker=1
+I, [2015-09-22T18:03:40.077510 #26769]  INFO -- : reaped #<Process::Status: pid 26779 exit 0> worker=2
+I, [2015-09-22T18:03:40.077656 #26769]  INFO -- : reaped #<Process::Status: pid 26782 exit 0> worker=3
+I, [2015-09-22T18:03:40.077829 #26769]  INFO -- : master complete
+I, [2015-09-22T18:04:07.471372 #20679]  INFO -- : Refreshing Gem list
+I, [2015-09-22T18:04:10.655917 #20679]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-09-22T18:04:10.691549 #20679]  INFO -- : master process ready
+I, [2015-09-22T18:04:10.701583 #20686]  INFO -- : worker=0 ready
+I, [2015-09-22T18:04:10.725437 #20689]  INFO -- : worker=1 ready
+I, [2015-09-22T18:04:10.727331 #20692]  INFO -- : worker=2 ready
+I, [2015-09-22T18:04:10.733060 #20695]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-09-30T09:59:41.474862 #20679]  INFO -- : reaped #<Process::Status: pid 20686 exit 0> worker=0
+I, [2015-09-30T09:59:41.475090 #20679]  INFO -- : reaped #<Process::Status: pid 20689 exit 0> worker=1
+I, [2015-09-30T09:59:41.475208 #20679]  INFO -- : reaped #<Process::Status: pid 20692 exit 0> worker=2
+I, [2015-09-30T09:59:41.475317 #20679]  INFO -- : reaped #<Process::Status: pid 20695 exit 0> worker=3
+I, [2015-09-30T09:59:41.475499 #20679]  INFO -- : master complete
+I, [2015-09-30T10:00:08.647934 #8330]  INFO -- : Refreshing Gem list
+I, [2015-09-30T10:00:11.767859 #8330]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-09-30T10:00:11.799613 #8335]  INFO -- : worker=0 ready
+I, [2015-09-30T10:00:11.803771 #8330]  INFO -- : master process ready
+I, [2015-09-30T10:00:11.818097 #8338]  INFO -- : worker=1 ready
+I, [2015-09-30T10:00:11.824955 #8340]  INFO -- : worker=2 ready
+I, [2015-09-30T10:00:11.829547 #8344]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-01T13:35:34.916471 #8330]  INFO -- : reaped #<Process::Status: pid 8335 exit 0> worker=0
+I, [2015-10-01T13:35:34.916732 #8330]  INFO -- : reaped #<Process::Status: pid 8338 exit 0> worker=1
+I, [2015-10-01T13:35:34.916946 #8330]  INFO -- : reaped #<Process::Status: pid 8340 exit 0> worker=2
+I, [2015-10-01T13:35:34.917082 #8330]  INFO -- : reaped #<Process::Status: pid 8344 exit 0> worker=3
+I, [2015-10-01T13:35:34.917269 #8330]  INFO -- : master complete
+I, [2015-10-01T13:36:51.009300 #2487]  INFO -- : Refreshing Gem list
+I, [2015-10-01T13:36:54.198858 #2487]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-01T13:36:54.231007 #2487]  INFO -- : master process ready
+I, [2015-10-01T13:36:54.247517 #2494]  INFO -- : worker=0 ready
+I, [2015-10-01T13:36:54.265754 #2497]  INFO -- : worker=1 ready
+I, [2015-10-01T13:36:54.267053 #2499]  INFO -- : worker=2 ready
+I, [2015-10-01T13:36:54.272729 #2502]  INFO -- : worker=3 ready
+I, [2015-10-01T13:45:05.044557 #2487]  INFO -- : reaped #<Process::Status: pid 2502 exit 0> worker=3
+I, [2015-10-01T13:45:05.145695 #2487]  INFO -- : reaped #<Process::Status: pid 2494 exit 0> worker=0
+I, [2015-10-01T13:45:05.145972 #2487]  INFO -- : reaped #<Process::Status: pid 2497 exit 0> worker=1
+I, [2015-10-01T13:45:05.146121 #2487]  INFO -- : reaped #<Process::Status: pid 2499 exit 0> worker=2
+I, [2015-10-01T13:45:05.146355 #2487]  INFO -- : master complete
+I, [2015-10-01T13:45:32.843203 #2726]  INFO -- : Refreshing Gem list
+I, [2015-10-01T13:45:34.985348 #2726]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-01T13:45:35.002075 #2726]  INFO -- : master process ready
+I, [2015-10-01T13:45:35.012135 #2736]  INFO -- : worker=2 ready
+I, [2015-10-01T13:45:35.021932 #2731]  INFO -- : worker=0 ready
+I, [2015-10-01T13:45:35.024445 #2739]  INFO -- : worker=3 ready
+I, [2015-10-01T13:45:35.028565 #2733]  INFO -- : worker=1 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-13T13:18:01.578272 #2726]  INFO -- : reaped #<Process::Status: pid 2731 exit 0> worker=0
+I, [2015-10-13T13:18:01.578646 #2726]  INFO -- : reaped #<Process::Status: pid 2733 exit 0> worker=1
+I, [2015-10-13T13:18:01.578893 #2726]  INFO -- : reaped #<Process::Status: pid 2736 exit 0> worker=2
+I, [2015-10-13T13:18:01.579022 #2726]  INFO -- : reaped #<Process::Status: pid 2739 exit 0> worker=3
+I, [2015-10-13T13:18:01.579178 #2726]  INFO -- : master complete
+I, [2015-10-13T13:18:17.094509 #27335]  INFO -- : Refreshing Gem list
+I, [2015-10-13T13:18:18.577155 #27335]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T13:18:18.593860 #27335]  INFO -- : master process ready
+I, [2015-10-13T13:18:18.602080 #27340]  INFO -- : worker=0 ready
+I, [2015-10-13T13:18:18.612367 #27343]  INFO -- : worker=1 ready
+I, [2015-10-13T13:18:18.616024 #27345]  INFO -- : worker=2 ready
+I, [2015-10-13T13:18:18.617397 #27348]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-13T13:27:49.118272 #27335]  INFO -- : reaped #<Process::Status: pid 27340 exit 0> worker=0
+I, [2015-10-13T13:27:49.118503 #27335]  INFO -- : reaped #<Process::Status: pid 27343 exit 0> worker=1
+I, [2015-10-13T13:27:49.118590 #27335]  INFO -- : reaped #<Process::Status: pid 27345 exit 0> worker=2
+I, [2015-10-13T13:27:49.118667 #27335]  INFO -- : reaped #<Process::Status: pid 27348 exit 0> worker=3
+I, [2015-10-13T13:27:49.118797 #27335]  INFO -- : master complete
+I, [2015-10-13T13:28:27.079729 #27539]  INFO -- : Refreshing Gem list
+I, [2015-10-13T13:28:28.577839 #27539]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T13:28:28.593671 #27546]  INFO -- : worker=0 ready
+I, [2015-10-13T13:28:28.595014 #27539]  INFO -- : master process ready
+I, [2015-10-13T13:28:28.603501 #27551]  INFO -- : worker=2 ready
+I, [2015-10-13T13:28:28.611279 #27549]  INFO -- : worker=1 ready
+I, [2015-10-13T13:28:28.616163 #27554]  INFO -- : worker=3 ready
+I, [2015-10-13T13:33:15.495176 #27539]  INFO -- : reaped #<Process::Status: pid 27546 exit 0> worker=0
+I, [2015-10-13T13:33:15.495496 #27539]  INFO -- : reaped #<Process::Status: pid 27549 exit 0> worker=1
+I, [2015-10-13T13:33:15.495693 #27539]  INFO -- : reaped #<Process::Status: pid 27551 exit 0> worker=2
+I, [2015-10-13T13:33:15.495822 #27539]  INFO -- : reaped #<Process::Status: pid 27554 exit 0> worker=3
+I, [2015-10-13T13:33:15.495998 #27539]  INFO -- : master complete
+I, [2015-10-13T13:33:34.147507 #27698]  INFO -- : Refreshing Gem list
+I, [2015-10-13T13:33:35.633857 #27698]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T13:33:35.648435 #27703]  INFO -- : worker=0 ready
+I, [2015-10-13T13:33:35.652476 #27698]  INFO -- : master process ready
+I, [2015-10-13T13:33:35.668226 #27711]  INFO -- : worker=3 ready
+I, [2015-10-13T13:33:35.670920 #27705]  INFO -- : worker=1 ready
+I, [2015-10-13T13:33:35.672005 #27708]  INFO -- : worker=2 ready
+I, [2015-10-13T13:38:15.834575 #27698]  INFO -- : reaped #<Process::Status: pid 27703 exit 0> worker=0
+I, [2015-10-13T13:38:15.834848 #27698]  INFO -- : reaped #<Process::Status: pid 27705 exit 0> worker=1
+I, [2015-10-13T13:38:15.834988 #27698]  INFO -- : reaped #<Process::Status: pid 27708 exit 0> worker=2
+I, [2015-10-13T13:38:15.835137 #27698]  INFO -- : reaped #<Process::Status: pid 27711 exit 0> worker=3
+I, [2015-10-13T13:38:15.835302 #27698]  INFO -- : master complete
+I, [2015-10-13T13:38:30.865725 #28144]  INFO -- : Refreshing Gem list
+I, [2015-10-13T13:38:32.328680 #28144]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T13:38:32.345904 #28144]  INFO -- : master process ready
+I, [2015-10-13T13:38:32.357082 #28149]  INFO -- : worker=0 ready
+I, [2015-10-13T13:38:32.361077 #28152]  INFO -- : worker=1 ready
+I, [2015-10-13T13:38:32.363006 #28157]  INFO -- : worker=3 ready
+I, [2015-10-13T13:38:32.367270 #28154]  INFO -- : worker=2 ready
+I, [2015-10-13T13:44:00.631762 #28144]  INFO -- : reaped #<Process::Status: pid 28149 exit 0> worker=0
+I, [2015-10-13T13:44:00.631941 #28144]  INFO -- : reaped #<Process::Status: pid 28152 exit 0> worker=1
+I, [2015-10-13T13:44:00.632028 #28144]  INFO -- : reaped #<Process::Status: pid 28154 exit 0> worker=2
+I, [2015-10-13T13:44:00.632089 #28144]  INFO -- : reaped #<Process::Status: pid 28157 exit 0> worker=3
+I, [2015-10-13T13:44:00.632242 #28144]  INFO -- : master complete
+I, [2015-10-13T13:44:56.631888 #28318]  INFO -- : Refreshing Gem list
+I, [2015-10-13T13:44:58.123593 #28318]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T13:44:58.135937 #28325]  INFO -- : worker=0 ready
+I, [2015-10-13T13:44:58.141835 #28318]  INFO -- : master process ready
+I, [2015-10-13T13:44:58.152426 #28330]  INFO -- : worker=2 ready
+I, [2015-10-13T13:44:58.154120 #28328]  INFO -- : worker=1 ready
+I, [2015-10-13T13:44:58.162140 #28333]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-13T14:43:36.801033 #28318]  INFO -- : reaped #<Process::Status: pid 28325 exit 0> worker=0
+I, [2015-10-13T14:43:36.801437 #28318]  INFO -- : reaped #<Process::Status: pid 28328 exit 0> worker=1
+I, [2015-10-13T14:43:36.801614 #28318]  INFO -- : reaped #<Process::Status: pid 28330 exit 0> worker=2
+I, [2015-10-13T14:43:36.801743 #28318]  INFO -- : reaped #<Process::Status: pid 28333 exit 0> worker=3
+I, [2015-10-13T14:43:36.801919 #28318]  INFO -- : master complete
+I, [2015-10-13T14:43:50.376759 #29248]  INFO -- : Refreshing Gem list
+I, [2015-10-13T14:43:51.874391 #29248]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T14:43:51.889766 #29253]  INFO -- : worker=0 ready
+I, [2015-10-13T14:43:51.891151 #29248]  INFO -- : master process ready
+I, [2015-10-13T14:43:51.903201 #29258]  INFO -- : worker=2 ready
+I, [2015-10-13T14:43:51.906820 #29256]  INFO -- : worker=1 ready
+I, [2015-10-13T14:43:51.911334 #29261]  INFO -- : worker=3 ready
+I, [2015-10-13T14:47:42.161163 #29248]  INFO -- : reaped #<Process::Status: pid 29253 exit 0> worker=0
+I, [2015-10-13T14:47:42.161433 #29248]  INFO -- : reaped #<Process::Status: pid 29256 exit 0> worker=1
+I, [2015-10-13T14:47:42.161577 #29248]  INFO -- : reaped #<Process::Status: pid 29258 exit 0> worker=2
+I, [2015-10-13T14:47:42.161699 #29248]  INFO -- : reaped #<Process::Status: pid 29261 exit 0> worker=3
+I, [2015-10-13T14:47:42.161848 #29248]  INFO -- : master complete
+I, [2015-10-13T14:47:54.037616 #29373]  INFO -- : Refreshing Gem list
+I, [2015-10-13T14:47:55.498765 #29373]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T14:47:55.510885 #29378]  INFO -- : worker=0 ready
+I, [2015-10-13T14:47:55.514105 #29373]  INFO -- : master process ready
+I, [2015-10-13T14:47:55.527912 #29380]  INFO -- : worker=1 ready
+I, [2015-10-13T14:47:55.535804 #29383]  INFO -- : worker=2 ready
+I, [2015-10-13T14:47:55.536757 #29386]  INFO -- : worker=3 ready
+I, [2015-10-13T14:50:33.412663 #29373]  INFO -- : reaped #<Process::Status: pid 29378 exit 0> worker=0
+I, [2015-10-13T14:50:33.412927 #29373]  INFO -- : reaped #<Process::Status: pid 29380 exit 0> worker=1
+I, [2015-10-13T14:50:33.413024 #29373]  INFO -- : reaped #<Process::Status: pid 29383 exit 0> worker=2
+I, [2015-10-13T14:50:33.413111 #29373]  INFO -- : reaped #<Process::Status: pid 29386 exit 0> worker=3
+I, [2015-10-13T14:50:33.413230 #29373]  INFO -- : master complete
+I, [2015-10-13T14:50:50.956034 #29494]  INFO -- : Refreshing Gem list
+I, [2015-10-13T14:50:52.680306 #29494]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T14:50:52.691870 #29499]  INFO -- : worker=0 ready
+I, [2015-10-13T14:50:52.696897 #29494]  INFO -- : master process ready
+I, [2015-10-13T14:50:52.707149 #29502]  INFO -- : worker=1 ready
+I, [2015-10-13T14:50:52.712025 #29504]  INFO -- : worker=2 ready
+I, [2015-10-13T14:50:52.716615 #29507]  INFO -- : worker=3 ready
+I, [2015-10-13T15:07:30.072995 #29494]  INFO -- : reaped #<Process::Status: pid 29499 exit 0> worker=0
+I, [2015-10-13T15:07:30.073235 #29494]  INFO -- : reaped #<Process::Status: pid 29502 exit 0> worker=1
+I, [2015-10-13T15:07:30.073364 #29494]  INFO -- : reaped #<Process::Status: pid 29504 exit 0> worker=2
+I, [2015-10-13T15:07:30.073473 #29494]  INFO -- : reaped #<Process::Status: pid 29507 exit 0> worker=3
+I, [2015-10-13T15:07:30.073626 #29494]  INFO -- : master complete
+I, [2015-10-13T15:07:46.010545 #29815]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:07:47.468934 #29815]  INFO -- : listening on addr=0.0.0.0:3030 fd=9
+I, [2015-10-13T15:07:47.485812 #29815]  INFO -- : master process ready
+I, [2015-10-13T15:07:47.491504 #29827]  INFO -- : worker=3 ready
+I, [2015-10-13T15:07:47.492102 #29819]  INFO -- : worker=0 ready
+I, [2015-10-13T15:07:47.492359 #29821]  INFO -- : worker=1 ready
+I, [2015-10-13T15:07:47.492705 #29824]  INFO -- : worker=2 ready
+I, [2015-10-13T15:07:49.275759 #29815]  INFO -- : reaped #<Process::Status: pid 29819 exit 0> worker=0
+I, [2015-10-13T15:07:49.275958 #29815]  INFO -- : reaped #<Process::Status: pid 29821 exit 0> worker=1
+I, [2015-10-13T15:07:49.276052 #29815]  INFO -- : reaped #<Process::Status: pid 29824 exit 0> worker=2
+I, [2015-10-13T15:07:49.276143 #29815]  INFO -- : reaped #<Process::Status: pid 29827 exit 0> worker=3
+I, [2015-10-13T15:07:49.276282 #29815]  INFO -- : master complete
+I, [2015-10-13T15:07:53.245789 #29838]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:07:54.772988 #29838]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T15:07:54.788233 #29845]  INFO -- : worker=1 ready
+I, [2015-10-13T15:07:54.789509 #29838]  INFO -- : master process ready
+I, [2015-10-13T15:07:54.799074 #29848]  INFO -- : worker=2 ready
+I, [2015-10-13T15:07:54.805232 #29843]  INFO -- : worker=0 ready
+I, [2015-10-13T15:07:54.806829 #29851]  INFO -- : worker=3 ready
+I, [2015-10-13T15:08:11.464104 #29838]  INFO -- : reaped #<Process::Status: pid 29843 exit 0> worker=0
+I, [2015-10-13T15:08:11.464245 #29838]  INFO -- : reaped #<Process::Status: pid 29845 exit 0> worker=1
+I, [2015-10-13T15:08:11.464312 #29838]  INFO -- : reaped #<Process::Status: pid 29848 exit 0> worker=2
+I, [2015-10-13T15:08:11.464371 #29838]  INFO -- : reaped #<Process::Status: pid 29851 exit 0> worker=3
+I, [2015-10-13T15:08:11.464468 #29838]  INFO -- : master complete
+I, [2015-10-13T15:08:14.036306 #29867]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:08:15.519965 #29867]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T15:08:15.552111 #29872]  INFO -- : worker=0 ready
+I, [2015-10-13T15:08:15.555973 #29867]  INFO -- : master process ready
+I, [2015-10-13T15:08:15.566265 #29875]  INFO -- : worker=1 ready
+I, [2015-10-13T15:08:15.571584 #29880]  INFO -- : worker=3 ready
+I, [2015-10-13T15:08:15.577226 #29877]  INFO -- : worker=2 ready
+I, [2015-10-13T15:24:19.726036 #29867]  INFO -- : reaped #<Process::Status: pid 29872 exit 0> worker=0
+I, [2015-10-13T15:24:19.726226 #29867]  INFO -- : reaped #<Process::Status: pid 29875 exit 0> worker=1
+I, [2015-10-13T15:24:19.726296 #29867]  INFO -- : reaped #<Process::Status: pid 29877 exit 0> worker=2
+I, [2015-10-13T15:24:19.726359 #29867]  INFO -- : reaped #<Process::Status: pid 29880 exit 0> worker=3
+I, [2015-10-13T15:24:19.726440 #29867]  INFO -- : master complete
+I, [2015-10-13T15:24:33.747100 #30239]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:24:35.282307 #30239]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T15:24:35.299057 #30247]  INFO -- : worker=1 ready
+I, [2015-10-13T15:24:35.300435 #30239]  INFO -- : master process ready
+I, [2015-10-13T15:24:35.307754 #30249]  INFO -- : worker=2 ready
+I, [2015-10-13T15:24:35.314061 #30244]  INFO -- : worker=0 ready
+I, [2015-10-13T15:24:35.318583 #30252]  INFO -- : worker=3 ready
+I, [2015-10-13T15:30:12.786754 #30239]  INFO -- : reaped #<Process::Status: pid 30244 exit 0> worker=0
+I, [2015-10-13T15:30:12.888017 #30239]  INFO -- : reaped #<Process::Status: pid 30247 exit 0> worker=1
+I, [2015-10-13T15:30:12.888241 #30239]  INFO -- : reaped #<Process::Status: pid 30249 exit 0> worker=2
+I, [2015-10-13T15:30:12.888361 #30239]  INFO -- : reaped #<Process::Status: pid 30252 exit 0> worker=3
+I, [2015-10-13T15:30:12.888539 #30239]  INFO -- : master complete
+I, [2015-10-13T15:30:24.284772 #30385]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:30:25.808529 #30385]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T15:30:25.824327 #30385]  INFO -- : master process ready
+I, [2015-10-13T15:30:25.832111 #30395]  INFO -- : worker=2 ready
+I, [2015-10-13T15:30:25.839631 #30398]  INFO -- : worker=3 ready
+I, [2015-10-13T15:30:25.845973 #30390]  INFO -- : worker=0 ready
+I, [2015-10-13T15:30:25.846358 #30392]  INFO -- : worker=1 ready
+I, [2015-10-13T15:36:56.845045 #30385]  INFO -- : reaped #<Process::Status: pid 30390 exit 0> worker=0
+I, [2015-10-13T15:36:56.845333 #30385]  INFO -- : reaped #<Process::Status: pid 30392 exit 0> worker=1
+I, [2015-10-13T15:36:56.845469 #30385]  INFO -- : reaped #<Process::Status: pid 30395 exit 0> worker=2
+I, [2015-10-13T15:36:56.845653 #30385]  INFO -- : reaped #<Process::Status: pid 30398 exit 0> worker=3
+I, [2015-10-13T15:36:56.845823 #30385]  INFO -- : master complete
+I, [2015-10-13T15:37:09.003840 #30545]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:37:10.492873 #30545]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T15:37:10.508002 #30553]  INFO -- : worker=1 ready
+I, [2015-10-13T15:37:10.510001 #30545]  INFO -- : master process ready
+I, [2015-10-13T15:37:10.517766 #30550]  INFO -- : worker=0 ready
+I, [2015-10-13T15:37:10.527826 #30558]  INFO -- : worker=3 ready
+I, [2015-10-13T15:37:10.528456 #30555]  INFO -- : worker=2 ready
+I, [2015-10-13T15:44:45.933929 #30545]  INFO -- : reaped #<Process::Status: pid 30550 exit 0> worker=0
+I, [2015-10-13T15:44:45.934319 #30545]  INFO -- : reaped #<Process::Status: pid 30553 exit 0> worker=1
+I, [2015-10-13T15:44:45.934463 #30545]  INFO -- : reaped #<Process::Status: pid 30555 exit 0> worker=2
+I, [2015-10-13T15:44:45.934593 #30545]  INFO -- : reaped #<Process::Status: pid 30558 exit 0> worker=3
+I, [2015-10-13T15:44:45.934763 #30545]  INFO -- : master complete
+I, [2015-10-13T15:45:02.813625 #31268]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:45:04.293816 #31268]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T15:45:04.309814 #31268]  INFO -- : master process ready
+I, [2015-10-13T15:45:04.320196 #31278]  INFO -- : worker=2 ready
+I, [2015-10-13T15:45:04.322920 #31273]  INFO -- : worker=0 ready
+I, [2015-10-13T15:45:04.328062 #31276]  INFO -- : worker=1 ready
+I, [2015-10-13T15:45:04.331597 #31281]  INFO -- : worker=3 ready
+I, [2015-10-13T15:59:26.745688 #31268]  INFO -- : reaped #<Process::Status: pid 31273 exit 0> worker=0
+I, [2015-10-13T15:59:26.746044 #31268]  INFO -- : reaped #<Process::Status: pid 31276 exit 0> worker=1
+I, [2015-10-13T15:59:26.746191 #31268]  INFO -- : reaped #<Process::Status: pid 31278 exit 0> worker=2
+I, [2015-10-13T15:59:26.746320 #31268]  INFO -- : reaped #<Process::Status: pid 31281 exit 0> worker=3
+I, [2015-10-13T15:59:26.746486 #31268]  INFO -- : master complete
+I, [2015-10-13T15:59:47.990180 #31593]  INFO -- : Refreshing Gem list
+I, [2015-10-13T15:59:49.655795 #31593]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T15:59:49.667162 #31598]  INFO -- : worker=0 ready
+I, [2015-10-13T15:59:49.672503 #31593]  INFO -- : master process ready
+I, [2015-10-13T15:59:49.679934 #31603]  INFO -- : worker=2 ready
+I, [2015-10-13T15:59:49.687607 #31606]  INFO -- : worker=3 ready
+I, [2015-10-13T15:59:49.688015 #31601]  INFO -- : worker=1 ready
+I, [2015-10-13T16:02:41.341770 #31593]  INFO -- : reaped #<Process::Status: pid 31598 exit 0> worker=0
+I, [2015-10-13T16:02:41.341927 #31593]  INFO -- : reaped #<Process::Status: pid 31601 exit 0> worker=1
+I, [2015-10-13T16:02:41.341992 #31593]  INFO -- : reaped #<Process::Status: pid 31603 exit 0> worker=2
+I, [2015-10-13T16:02:41.342121 #31593]  INFO -- : reaped #<Process::Status: pid 31606 exit 0> worker=3
+I, [2015-10-13T16:02:41.342209 #31593]  INFO -- : master complete
+I, [2015-10-13T16:02:52.650389 #31694]  INFO -- : Refreshing Gem list
+I, [2015-10-13T16:02:54.161954 #31694]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T16:02:54.180499 #31703]  INFO -- : worker=1 ready
+I, [2015-10-13T16:02:54.183086 #31694]  INFO -- : master process ready
+I, [2015-10-13T16:02:54.197180 #31701]  INFO -- : worker=0 ready
+I, [2015-10-13T16:02:54.199194 #31706]  INFO -- : worker=2 ready
+I, [2015-10-13T16:02:54.203783 #31709]  INFO -- : worker=3 ready
+I, [2015-10-13T16:08:58.197067 #31694]  INFO -- : reaped #<Process::Status: pid 31701 exit 0> worker=0
+I, [2015-10-13T16:08:58.197357 #31694]  INFO -- : reaped #<Process::Status: pid 31703 exit 0> worker=1
+I, [2015-10-13T16:08:58.197497 #31694]  INFO -- : reaped #<Process::Status: pid 31706 exit 0> worker=2
+I, [2015-10-13T16:08:58.197658 #31694]  INFO -- : reaped #<Process::Status: pid 31709 exit 0> worker=3
+I, [2015-10-13T16:08:58.197847 #31694]  INFO -- : master complete
+I, [2015-10-13T16:09:12.432078 #31856]  INFO -- : Refreshing Gem list
+I, [2015-10-13T16:09:14.350144 #31856]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T16:09:14.363116 #31863]  INFO -- : worker=0 ready
+I, [2015-10-13T16:09:14.367531 #31866]  INFO -- : worker=1 ready
+I, [2015-10-13T16:09:14.369059 #31856]  INFO -- : master process ready
+I, [2015-10-13T16:09:14.380333 #31868]  INFO -- : worker=2 ready
+I, [2015-10-13T16:09:14.383909 #31871]  INFO -- : worker=3 ready
+I, [2015-10-13T16:14:59.592559 #31856]  INFO -- : reaped #<Process::Status: pid 31863 exit 0> worker=0
+I, [2015-10-13T16:14:59.592872 #31856]  INFO -- : reaped #<Process::Status: pid 31866 exit 0> worker=1
+I, [2015-10-13T16:14:59.593002 #31856]  INFO -- : reaped #<Process::Status: pid 31868 exit 0> worker=2
+I, [2015-10-13T16:14:59.593145 #31856]  INFO -- : reaped #<Process::Status: pid 31871 exit 0> worker=3
+I, [2015-10-13T16:14:59.593315 #31856]  INFO -- : master complete
+I, [2015-10-13T16:15:09.872534 #31989]  INFO -- : Refreshing Gem list
+I, [2015-10-13T16:15:11.393898 #31989]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-13T16:15:11.408562 #31996]  INFO -- : worker=1 ready
+I, [2015-10-13T16:15:11.410796 #31989]  INFO -- : master process ready
+I, [2015-10-13T16:15:11.418316 #31994]  INFO -- : worker=0 ready
+I, [2015-10-13T16:15:11.427830 #32002]  INFO -- : worker=3 ready
+I, [2015-10-13T16:15:11.431161 #31999]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-14T11:47:03.348109 #31989]  INFO -- : reaped #<Process::Status: pid 31994 exit 0> worker=0
+I, [2015-10-14T11:47:03.348378 #31989]  INFO -- : reaped #<Process::Status: pid 31996 exit 0> worker=1
+I, [2015-10-14T11:47:03.348498 #31989]  INFO -- : reaped #<Process::Status: pid 31999 exit 0> worker=2
+I, [2015-10-14T11:47:03.348618 #31989]  INFO -- : reaped #<Process::Status: pid 32002 exit 0> worker=3
+I, [2015-10-14T11:47:03.348780 #31989]  INFO -- : master complete
+I, [2015-10-14T11:47:19.475308 #8494]  INFO -- : Refreshing Gem list
+I, [2015-10-14T11:47:21.081604 #8494]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T11:47:21.097833 #8494]  INFO -- : master process ready
+I, [2015-10-14T11:47:21.105760 #8499]  INFO -- : worker=0 ready
+I, [2015-10-14T11:47:21.115134 #8501]  INFO -- : worker=1 ready
+I, [2015-10-14T11:47:21.116723 #8504]  INFO -- : worker=2 ready
+I, [2015-10-14T11:47:21.119509 #8507]  INFO -- : worker=3 ready
+I, [2015-10-14T11:51:35.244596 #8494]  INFO -- : reaped #<Process::Status: pid 8499 exit 0> worker=0
+I, [2015-10-14T11:51:35.244750 #8494]  INFO -- : reaped #<Process::Status: pid 8501 exit 0> worker=1
+I, [2015-10-14T11:51:35.345200 #8494]  INFO -- : reaped #<Process::Status: pid 8504 exit 0> worker=2
+I, [2015-10-14T11:51:35.345390 #8494]  INFO -- : reaped #<Process::Status: pid 8507 exit 0> worker=3
+I, [2015-10-14T11:51:35.345500 #8494]  INFO -- : master complete
+I, [2015-10-14T11:51:45.921677 #8632]  INFO -- : Refreshing Gem list
+I, [2015-10-14T11:51:47.526294 #8632]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T11:51:47.540135 #8639]  INFO -- : worker=0 ready
+I, [2015-10-14T11:51:47.548461 #8632]  INFO -- : master process ready
+I, [2015-10-14T11:51:47.555720 #8642]  INFO -- : worker=1 ready
+I, [2015-10-14T11:51:47.563718 #8644]  INFO -- : worker=2 ready
+I, [2015-10-14T11:51:47.567632 #8648]  INFO -- : worker=3 ready
+I, [2015-10-14T12:01:24.771292 #8632]  INFO -- : reaped #<Process::Status: pid 8639 exit 0> worker=0
+I, [2015-10-14T12:01:24.771466 #8632]  INFO -- : reaped #<Process::Status: pid 8642 exit 0> worker=1
+I, [2015-10-14T12:01:24.771540 #8632]  INFO -- : reaped #<Process::Status: pid 8644 exit 0> worker=2
+I, [2015-10-14T12:01:24.771607 #8632]  INFO -- : reaped #<Process::Status: pid 8648 exit 0> worker=3
+I, [2015-10-14T12:01:24.771686 #8632]  INFO -- : master complete
+I, [2015-10-14T12:01:36.485145 #9068]  INFO -- : Refreshing Gem list
+I, [2015-10-14T12:01:38.063246 #9068]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T12:01:38.075687 #9075]  INFO -- : worker=0 ready
+I, [2015-10-14T12:01:38.079316 #9068]  INFO -- : master process ready
+I, [2015-10-14T12:01:38.088578 #9078]  INFO -- : worker=1 ready
+I, [2015-10-14T12:01:38.095343 #9083]  INFO -- : worker=3 ready
+I, [2015-10-14T12:01:38.098711 #9080]  INFO -- : worker=2 ready
+I, [2015-10-14T12:23:04.605419 #9068]  INFO -- : reaped #<Process::Status: pid 9075 exit 0> worker=0
+I, [2015-10-14T12:23:04.605593 #9068]  INFO -- : reaped #<Process::Status: pid 9078 exit 0> worker=1
+I, [2015-10-14T12:23:04.605685 #9068]  INFO -- : reaped #<Process::Status: pid 9080 exit 0> worker=2
+I, [2015-10-14T12:23:04.605749 #9068]  INFO -- : reaped #<Process::Status: pid 9083 exit 0> worker=3
+I, [2015-10-14T12:23:04.605840 #9068]  INFO -- : master complete
+I, [2015-10-14T12:23:16.592277 #9717]  INFO -- : Refreshing Gem list
+I, [2015-10-14T12:23:18.142034 #9717]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T12:23:18.158294 #9724]  INFO -- : worker=0 ready
+I, [2015-10-14T12:23:18.159889 #9717]  INFO -- : master process ready
+I, [2015-10-14T12:23:18.176872 #9726]  INFO -- : worker=1 ready
+I, [2015-10-14T12:23:18.178010 #9732]  INFO -- : worker=3 ready
+I, [2015-10-14T12:23:18.178390 #9729]  INFO -- : worker=2 ready
+I, [2015-10-14T12:35:07.706581 #9717]  INFO -- : reaped #<Process::Status: pid 9724 exit 0> worker=0
+I, [2015-10-14T12:35:07.708153 #9717]  INFO -- : reaped #<Process::Status: pid 9726 exit 0> worker=1
+I, [2015-10-14T12:35:07.708228 #9717]  INFO -- : reaped #<Process::Status: pid 9729 exit 0> worker=2
+I, [2015-10-14T12:35:07.708296 #9717]  INFO -- : reaped #<Process::Status: pid 9732 exit 0> worker=3
+I, [2015-10-14T12:35:07.708422 #9717]  INFO -- : master complete
+I, [2015-10-14T12:35:21.376535 #10086]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/helpers/form_instance_helper.rb:122: syntax error, unexpected end-of-input, expecting keyword_end (SyntaxError)
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/actionpack-4.0.2/lib/abstract_controller/helpers.rb:135:in `block in modules_for_helpers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/actionpack-4.0.2/lib/abstract_controller/helpers.rb:130:in `map!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/actionpack-4.0.2/lib/abstract_controller/helpers.rb:130:in `modules_for_helpers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/actionpack-4.0.2/lib/action_controller/metal/helpers.rb:89:in `modules_for_helpers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/actionpack-4.0.2/lib/abstract_controller/helpers.rb:94:in `helper'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/actionpack-4.0.2/lib/action_controller/railties/helpers.rb:17:in `inherited'
+	from /home/promis/PainReportPortal/app/controllers/application_controller.rb:2:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:463:in `load_missing_constant'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:184:in `const_missing'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/inflector/methods.rb:226:in `const_get'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/inflector/methods.rb:226:in `block in constantize'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/inflector/methods.rb:224:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/inflector/methods.rb:224:in `inject'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/inflector/methods.rb:224:in `constantize'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/core_ext/string/inflections.rb:66:in `constantize'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/devise-3.2.3/app/controllers/devise_controller.rb:2:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:463:in `load_missing_constant'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:184:in `const_missing'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/devise-3.2.3/app/controllers/devise/confirmations_controller.rb:1:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-14T12:41:50.179897 #10367]  INFO -- : Refreshing Gem list
+I, [2015-10-14T12:41:51.701003 #10367]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T12:41:51.717996 #10367]  INFO -- : master process ready
+I, [2015-10-14T12:41:51.728433 #10377]  INFO -- : worker=2 ready
+I, [2015-10-14T12:41:51.731914 #10372]  INFO -- : worker=0 ready
+I, [2015-10-14T12:41:51.738819 #10380]  INFO -- : worker=3 ready
+I, [2015-10-14T12:41:51.741491 #10374]  INFO -- : worker=1 ready
+I, [2015-10-14T12:50:24.607241 #10367]  INFO -- : reaped #<Process::Status: pid 10372 exit 0> worker=0
+I, [2015-10-14T12:50:24.607433 #10367]  INFO -- : reaped #<Process::Status: pid 10380 exit 0> worker=3
+I, [2015-10-14T12:50:24.707848 #10367]  INFO -- : reaped #<Process::Status: pid 10374 exit 0> worker=1
+I, [2015-10-14T12:50:24.707988 #10367]  INFO -- : reaped #<Process::Status: pid 10377 exit 0> worker=2
+I, [2015-10-14T12:50:24.708076 #10367]  INFO -- : master complete
+I, [2015-10-14T12:50:36.162797 #10639]  INFO -- : Refreshing Gem list
+I, [2015-10-14T12:50:37.698348 #10639]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T12:50:37.713902 #10639]  INFO -- : master process ready
+I, [2015-10-14T12:50:37.726824 #10647]  INFO -- : worker=1 ready
+I, [2015-10-14T12:50:37.720754 #10644]  INFO -- : worker=0 ready
+I, [2015-10-14T12:50:37.734101 #10652]  INFO -- : worker=3 ready
+I, [2015-10-14T12:50:37.735240 #10649]  INFO -- : worker=2 ready
+I, [2015-10-14T12:54:03.386629 #10639]  INFO -- : reaped #<Process::Status: pid 10644 exit 0> worker=0
+I, [2015-10-14T12:54:03.386929 #10639]  INFO -- : reaped #<Process::Status: pid 10647 exit 0> worker=1
+I, [2015-10-14T12:54:03.387071 #10639]  INFO -- : reaped #<Process::Status: pid 10649 exit 0> worker=2
+I, [2015-10-14T12:54:03.387196 #10639]  INFO -- : reaped #<Process::Status: pid 10652 exit 0> worker=3
+I, [2015-10-14T12:54:03.387391 #10639]  INFO -- : master complete
+I, [2015-10-14T12:54:08.510963 #10721]  INFO -- : Refreshing Gem list
+I, [2015-10-14T12:54:10.060422 #10721]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T12:54:10.078067 #10721]  INFO -- : master process ready
+I, [2015-10-14T12:54:10.088987 #10728]  INFO -- : worker=0 ready
+I, [2015-10-14T12:54:10.076707 #10731]  INFO -- : worker=1 ready
+I, [2015-10-14T12:54:10.093862 #10733]  INFO -- : worker=2 ready
+I, [2015-10-14T12:54:10.094887 #10736]  INFO -- : worker=3 ready
+I, [2015-10-14T13:05:38.136202 #10721]  INFO -- : reaped #<Process::Status: pid 10728 exit 0> worker=0
+I, [2015-10-14T13:05:38.136346 #10721]  INFO -- : reaped #<Process::Status: pid 10731 exit 0> worker=1
+I, [2015-10-14T13:05:38.136409 #10721]  INFO -- : reaped #<Process::Status: pid 10733 exit 0> worker=2
+I, [2015-10-14T13:05:38.136490 #10721]  INFO -- : reaped #<Process::Status: pid 10736 exit 0> worker=3
+I, [2015-10-14T13:05:38.136579 #10721]  INFO -- : master complete
+I, [2015-10-14T13:05:50.266005 #11561]  INFO -- : Refreshing Gem list
+I, [2015-10-14T13:05:51.825744 #11561]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-14T13:05:51.841760 #11566]  INFO -- : worker=0 ready
+I, [2015-10-14T13:05:51.843454 #11561]  INFO -- : master process ready
+I, [2015-10-14T13:05:51.858380 #11569]  INFO -- : worker=1 ready
+I, [2015-10-14T13:05:51.864162 #11574]  INFO -- : worker=3 ready
+I, [2015-10-14T13:05:51.864775 #11571]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-25T12:51:47.132552 #11561]  INFO -- : reaped #<Process::Status: pid 11566 exit 0> worker=0
+I, [2015-10-25T12:51:47.132769 #11561]  INFO -- : reaped #<Process::Status: pid 11569 exit 0> worker=1
+I, [2015-10-25T12:51:47.132891 #11561]  INFO -- : reaped #<Process::Status: pid 11571 exit 0> worker=2
+I, [2015-10-25T12:51:47.132980 #11561]  INFO -- : reaped #<Process::Status: pid 11574 exit 0> worker=3
+I, [2015-10-25T12:51:47.133074 #11561]  INFO -- : master complete
+I, [2015-10-25T12:52:03.194536 #27543]  INFO -- : Refreshing Gem list
+I, [2015-10-25T12:52:04.806967 #27543]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-25T12:52:04.828313 #27555]  INFO -- : worker=2 ready
+I, [2015-10-25T12:52:04.829111 #27543]  INFO -- : master process ready
+I, [2015-10-25T12:52:04.843820 #27550]  INFO -- : worker=0 ready
+I, [2015-10-25T12:52:04.848561 #27553]  INFO -- : worker=1 ready
+I, [2015-10-25T12:52:04.840778 #27559]  INFO -- : worker=3 ready
+I, [2015-10-25T13:04:52.480574 #27543]  INFO -- : reaped #<Process::Status: pid 27550 exit 0> worker=0
+I, [2015-10-25T13:04:52.480768 #27543]  INFO -- : reaped #<Process::Status: pid 27553 exit 0> worker=1
+I, [2015-10-25T13:04:52.480853 #27543]  INFO -- : reaped #<Process::Status: pid 27555 exit 0> worker=2
+I, [2015-10-25T13:04:52.480917 #27543]  INFO -- : reaped #<Process::Status: pid 27559 exit 0> worker=3
+I, [2015-10-25T13:04:52.481036 #27543]  INFO -- : master complete
+I, [2015-10-25T13:05:08.851851 #28048]  INFO -- : Refreshing Gem list
+I, [2015-10-25T13:05:10.463243 #28048]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-25T13:05:10.485380 #28054]  INFO -- : worker=0 ready
+I, [2015-10-25T13:05:10.486214 #28048]  INFO -- : master process ready
+I, [2015-10-25T13:05:10.494801 #28057]  INFO -- : worker=1 ready
+I, [2015-10-25T13:05:10.503143 #28059]  INFO -- : worker=2 ready
+I, [2015-10-25T13:05:10.505142 #28063]  INFO -- : worker=3 ready
+I, [2015-10-25T13:12:16.358912 #28048]  INFO -- : reaped #<Process::Status: pid 28054 exit 0> worker=0
+I, [2015-10-25T13:12:16.359086 #28048]  INFO -- : reaped #<Process::Status: pid 28057 exit 0> worker=1
+I, [2015-10-25T13:12:16.359150 #28048]  INFO -- : reaped #<Process::Status: pid 28059 exit 0> worker=2
+I, [2015-10-25T13:12:16.359207 #28048]  INFO -- : reaped #<Process::Status: pid 28063 exit 0> worker=3
+I, [2015-10-25T13:12:16.359289 #28048]  INFO -- : master complete
+I, [2015-10-25T13:12:35.231513 #28335]  INFO -- : Refreshing Gem list
+I, [2015-10-25T13:12:36.718274 #28335]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-25T13:12:36.732056 #28340]  INFO -- : worker=0 ready
+I, [2015-10-25T13:12:36.738192 #28335]  INFO -- : master process ready
+I, [2015-10-25T13:12:36.747760 #28345]  INFO -- : worker=2 ready
+I, [2015-10-25T13:12:36.755733 #28348]  INFO -- : worker=3 ready
+I, [2015-10-25T13:12:36.756151 #28343]  INFO -- : worker=1 ready
+I, [2015-10-25T13:22:17.937507 #28335]  INFO -- : reaped #<Process::Status: pid 28340 exit 0> worker=0
+I, [2015-10-25T13:22:17.937672 #28335]  INFO -- : reaped #<Process::Status: pid 28343 exit 0> worker=1
+I, [2015-10-25T13:22:17.937738 #28335]  INFO -- : reaped #<Process::Status: pid 28345 exit 0> worker=2
+I, [2015-10-25T13:22:17.937799 #28335]  INFO -- : reaped #<Process::Status: pid 28348 exit 0> worker=3
+I, [2015-10-25T13:22:17.937901 #28335]  INFO -- : master complete
+I, [2015-10-25T13:22:32.894760 #28817]  INFO -- : Refreshing Gem list
+I, [2015-10-25T13:22:34.393352 #28817]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-25T13:22:34.408585 #28824]  INFO -- : worker=0 ready
+I, [2015-10-25T13:22:34.413935 #28817]  INFO -- : master process ready
+I, [2015-10-25T13:22:34.427630 #28832]  INFO -- : worker=3 ready
+I, [2015-10-25T13:22:34.411722 #28826]  INFO -- : worker=1 ready
+I, [2015-10-25T13:22:34.433020 #28829]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-25T13:38:54.506302 #28817]  INFO -- : reaped #<Process::Status: pid 28824 exit 0> worker=0
+I, [2015-10-25T13:38:54.506494 #28817]  INFO -- : reaped #<Process::Status: pid 28826 exit 0> worker=1
+I, [2015-10-25T13:38:54.506560 #28817]  INFO -- : reaped #<Process::Status: pid 28829 exit 0> worker=2
+I, [2015-10-25T13:38:54.506620 #28817]  INFO -- : reaped #<Process::Status: pid 28832 exit 0> worker=3
+I, [2015-10-25T13:38:54.506712 #28817]  INFO -- : master complete
+I, [2015-10-25T13:39:06.103666 #29276]  INFO -- : Refreshing Gem list
+I, [2015-10-25T13:39:07.648975 #29276]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-25T13:39:07.666014 #29276]  INFO -- : master process ready
+I, [2015-10-25T13:39:07.683899 #29289]  INFO -- : worker=3 ready
+I, [2015-10-25T13:39:07.688928 #29281]  INFO -- : worker=0 ready
+I, [2015-10-25T13:39:07.689770 #29283]  INFO -- : worker=1 ready
+I, [2015-10-25T13:39:07.680108 #29286]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-25T13:47:43.892029 #29276]  INFO -- : reaped #<Process::Status: pid 29281 exit 0> worker=0
+I, [2015-10-25T13:47:43.892202 #29276]  INFO -- : reaped #<Process::Status: pid 29283 exit 0> worker=1
+I, [2015-10-25T13:47:43.892266 #29276]  INFO -- : reaped #<Process::Status: pid 29286 exit 0> worker=2
+I, [2015-10-25T13:47:43.892323 #29276]  INFO -- : reaped #<Process::Status: pid 29289 exit 0> worker=3
+I, [2015-10-25T13:47:43.892433 #29276]  INFO -- : master complete
+I, [2015-10-25T13:48:07.857957 #29493]  INFO -- : Refreshing Gem list
+I, [2015-10-25T13:48:09.462314 #29493]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-25T13:48:09.475229 #29498]  INFO -- : worker=0 ready
+I, [2015-10-25T13:48:09.481813 #29493]  INFO -- : master process ready
+I, [2015-10-25T13:48:09.498261 #29503]  INFO -- : worker=2 ready
+I, [2015-10-25T13:48:09.498634 #29500]  INFO -- : worker=1 ready
+I, [2015-10-25T13:48:09.500700 #29506]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-28T17:34:34.814594 #29493]  INFO -- : reaped #<Process::Status: pid 29498 exit 0> worker=0
+I, [2015-10-28T17:34:34.814777 #29493]  INFO -- : reaped #<Process::Status: pid 29500 exit 0> worker=1
+I, [2015-10-28T17:34:34.814863 #29493]  INFO -- : reaped #<Process::Status: pid 29503 exit 0> worker=2
+I, [2015-10-28T17:34:34.814938 #29493]  INFO -- : reaped #<Process::Status: pid 29506 exit 0> worker=3
+I, [2015-10-28T17:34:34.815046 #29493]  INFO -- : master complete
+I, [2015-10-28T17:34:47.079565 #31611]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:102: `$ (SyntaxError)
+' is not allowed as a global variable name
+/home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:102: syntax error, unexpected end-of-input, expecting keyword_end
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-28T17:39:11.744997 #31739]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:102: `$ (SyntaxError)
+' is not allowed as a global variable name
+/home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:102: syntax error, unexpected end-of-input, expecting keyword_end
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-28T17:44:07.659653 #31871]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:102: `$ (SyntaxError)
+' is not allowed as a global variable name
+/home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:102: syntax error, unexpected end-of-input, expecting keyword_end
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-28T17:54:58.947544 #32333]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:103: `$ (SyntaxError)
+' is not allowed as a global variable name
+/home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:103: syntax error, unexpected end-of-input, expecting keyword_end
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-28T18:01:07.696395 #32759]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:103: `$ (SyntaxError)
+' is not allowed as a global variable name
+/home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:103: syntax error, unexpected end-of-input, expecting keyword_end
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-28T21:35:43.826162 #3976]  INFO -- : Refreshing Gem list
+I, [2015-10-28T21:35:45.412669 #3976]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T21:35:45.431377 #3976]  INFO -- : master process ready
+I, [2015-10-28T21:35:45.439067 #3981]  INFO -- : worker=0 ready
+I, [2015-10-28T21:35:45.450904 #3989]  INFO -- : worker=3 ready
+I, [2015-10-28T21:35:45.457245 #3983]  INFO -- : worker=1 ready
+I, [2015-10-28T21:35:45.458458 #3986]  INFO -- : worker=2 ready
+I, [2015-10-28T21:37:22.744388 #3976]  INFO -- : reaped #<Process::Status: pid 3981 exit 0> worker=0
+I, [2015-10-28T21:37:22.744536 #3976]  INFO -- : reaped #<Process::Status: pid 3983 exit 0> worker=1
+I, [2015-10-28T21:37:22.744601 #3976]  INFO -- : reaped #<Process::Status: pid 3986 exit 0> worker=2
+I, [2015-10-28T21:37:22.744662 #3976]  INFO -- : reaped #<Process::Status: pid 3989 exit 0> worker=3
+I, [2015-10-28T21:37:22.744743 #3976]  INFO -- : master complete
+I, [2015-10-28T21:37:33.807815 #4054]  INFO -- : Refreshing Gem list
+I, [2015-10-28T21:37:35.283777 #4054]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T21:37:35.302261 #4054]  INFO -- : master process ready
+I, [2015-10-28T21:37:35.313046 #4059]  INFO -- : worker=0 ready
+I, [2015-10-28T21:37:35.315377 #4062]  INFO -- : worker=1 ready
+I, [2015-10-28T21:37:35.319735 #4067]  INFO -- : worker=3 ready
+I, [2015-10-28T21:37:35.325372 #4064]  INFO -- : worker=2 ready
+I, [2015-10-28T21:41:00.894436 #4054]  INFO -- : reaped #<Process::Status: pid 4059 exit 0> worker=0
+I, [2015-10-28T21:41:00.894606 #4054]  INFO -- : reaped #<Process::Status: pid 4062 exit 0> worker=1
+I, [2015-10-28T21:41:00.894671 #4054]  INFO -- : reaped #<Process::Status: pid 4064 exit 0> worker=2
+I, [2015-10-28T21:41:00.894766 #4054]  INFO -- : reaped #<Process::Status: pid 4067 exit 0> worker=3
+I, [2015-10-28T21:41:00.894858 #4054]  INFO -- : master complete
+I, [2015-10-28T21:41:11.650566 #4199]  INFO -- : Refreshing Gem list
+I, [2015-10-28T21:41:13.138810 #4199]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T21:41:13.162354 #4206]  INFO -- : worker=0 ready
+I, [2015-10-28T21:41:13.171942 #4199]  INFO -- : master process ready
+I, [2015-10-28T21:41:13.176448 #4209]  INFO -- : worker=1 ready
+I, [2015-10-28T21:41:13.181004 #4212]  INFO -- : worker=2 ready
+I, [2015-10-28T21:41:13.171708 #4215]  INFO -- : worker=3 ready
+I, [2015-10-28T21:54:48.289839 #4199]  INFO -- : reaped #<Process::Status: pid 4206 exit 0> worker=0
+I, [2015-10-28T21:54:48.290061 #4199]  INFO -- : reaped #<Process::Status: pid 4209 exit 0> worker=1
+I, [2015-10-28T21:54:48.290131 #4199]  INFO -- : reaped #<Process::Status: pid 4212 exit 0> worker=2
+I, [2015-10-28T21:54:48.290191 #4199]  INFO -- : reaped #<Process::Status: pid 4215 exit 0> worker=3
+I, [2015-10-28T21:54:48.290277 #4199]  INFO -- : master complete
+I, [2015-10-28T21:55:09.660149 #4830]  INFO -- : Refreshing Gem list
+I, [2015-10-28T21:55:11.186820 #4830]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T21:55:11.199865 #4835]  INFO -- : worker=0 ready
+I, [2015-10-28T21:55:11.204416 #4837]  INFO -- : worker=1 ready
+I, [2015-10-28T21:55:11.206318 #4830]  INFO -- : master process ready
+I, [2015-10-28T21:55:11.222414 #4840]  INFO -- : worker=2 ready
+I, [2015-10-28T21:55:11.224112 #4843]  INFO -- : worker=3 ready
+I, [2015-10-28T21:59:08.836376 #4830]  INFO -- : reaped #<Process::Status: pid 4835 exit 0> worker=0
+I, [2015-10-28T21:59:08.836528 #4830]  INFO -- : reaped #<Process::Status: pid 4837 exit 0> worker=1
+I, [2015-10-28T21:59:08.836592 #4830]  INFO -- : reaped #<Process::Status: pid 4840 exit 0> worker=2
+I, [2015-10-28T21:59:08.836655 #4830]  INFO -- : reaped #<Process::Status: pid 4843 exit 0> worker=3
+I, [2015-10-28T21:59:08.836759 #4830]  INFO -- : master complete
+I, [2015-10-28T21:59:20.791645 #4972]  INFO -- : Refreshing Gem list
+I, [2015-10-28T21:59:22.365944 #4972]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T21:59:22.386603 #4972]  INFO -- : master process ready
+I, [2015-10-28T21:59:22.393880 #4979]  INFO -- : worker=0 ready
+I, [2015-10-28T21:59:22.401981 #4982]  INFO -- : worker=1 ready
+I, [2015-10-28T21:59:22.404608 #4987]  INFO -- : worker=3 ready
+I, [2015-10-28T21:59:22.409664 #4984]  INFO -- : worker=2 ready
+I, [2015-10-28T22:15:11.162675 #4972]  INFO -- : reaped #<Process::Status: pid 4979 exit 0> worker=0
+I, [2015-10-28T22:15:11.162832 #4972]  INFO -- : reaped #<Process::Status: pid 4982 exit 0> worker=1
+I, [2015-10-28T22:15:11.162908 #4972]  INFO -- : reaped #<Process::Status: pid 4984 exit 0> worker=2
+I, [2015-10-28T22:15:11.162997 #4972]  INFO -- : reaped #<Process::Status: pid 4987 exit 0> worker=3
+I, [2015-10-28T22:15:11.163095 #4972]  INFO -- : master complete
+I, [2015-10-28T22:15:23.727179 #5754]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:15:25.183797 #5754]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:15:25.217726 #5754]  INFO -- : master process ready
+I, [2015-10-28T22:15:25.227653 #5764]  INFO -- : worker=2 ready
+I, [2015-10-28T22:15:25.232572 #5759]  INFO -- : worker=0 ready
+I, [2015-10-28T22:15:25.235135 #5762]  INFO -- : worker=1 ready
+I, [2015-10-28T22:15:25.239739 #5767]  INFO -- : worker=3 ready
+I, [2015-10-28T22:20:34.841693 #5754]  INFO -- : reaped #<Process::Status: pid 5762 exit 0> worker=1
+I, [2015-10-28T22:20:34.841976 #5754]  INFO -- : reaped #<Process::Status: pid 5764 exit 0> worker=2
+I, [2015-10-28T22:20:34.942710 #5754]  INFO -- : reaped #<Process::Status: pid 5759 exit 0> worker=0
+I, [2015-10-28T22:20:34.942979 #5754]  INFO -- : reaped #<Process::Status: pid 5767 exit 0> worker=3
+I, [2015-10-28T22:20:34.943166 #5754]  INFO -- : master complete
+I, [2015-10-28T22:20:45.615410 #6020]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:20:47.089079 #6020]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:20:47.105005 #6020]  INFO -- : master process ready
+I, [2015-10-28T22:20:47.112075 #6030]  INFO -- : worker=2 ready
+I, [2015-10-28T22:20:47.118577 #6028]  INFO -- : worker=1 ready
+I, [2015-10-28T22:20:47.123688 #6033]  INFO -- : worker=3 ready
+I, [2015-10-28T22:20:47.126939 #6025]  INFO -- : worker=0 ready
+I, [2015-10-28T22:23:12.378050 #6020]  INFO -- : reaped #<Process::Status: pid 6025 exit 0> worker=0
+I, [2015-10-28T22:23:12.478521 #6020]  INFO -- : reaped #<Process::Status: pid 6028 exit 0> worker=1
+I, [2015-10-28T22:23:12.478698 #6020]  INFO -- : reaped #<Process::Status: pid 6030 exit 0> worker=2
+I, [2015-10-28T22:23:12.478761 #6020]  INFO -- : reaped #<Process::Status: pid 6033 exit 0> worker=3
+I, [2015-10-28T22:23:12.478850 #6020]  INFO -- : master complete
+I, [2015-10-28T22:23:38.356216 #6251]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:23:39.845573 #6251]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:23:39.858857 #6256]  INFO -- : worker=0 ready
+I, [2015-10-28T22:23:39.863148 #6258]  INFO -- : worker=1 ready
+I, [2015-10-28T22:23:39.864864 #6251]  INFO -- : master process ready
+I, [2015-10-28T22:23:39.872155 #6261]  INFO -- : worker=2 ready
+I, [2015-10-28T22:23:39.879712 #6264]  INFO -- : worker=3 ready
+I, [2015-10-28T22:25:53.372190 #6251]  INFO -- : reaped #<Process::Status: pid 6256 exit 0> worker=0
+I, [2015-10-28T22:25:53.372339 #6251]  INFO -- : reaped #<Process::Status: pid 6258 exit 0> worker=1
+I, [2015-10-28T22:25:53.372401 #6251]  INFO -- : reaped #<Process::Status: pid 6261 exit 0> worker=2
+I, [2015-10-28T22:25:53.372485 #6251]  INFO -- : reaped #<Process::Status: pid 6264 exit 0> worker=3
+I, [2015-10-28T22:25:53.372579 #6251]  INFO -- : master complete
+I, [2015-10-28T22:26:09.999128 #6472]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:26:11.498599 #6472]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:26:11.514601 #6472]  INFO -- : master process ready
+I, [2015-10-28T22:26:11.524272 #6477]  INFO -- : worker=0 ready
+I, [2015-10-28T22:26:11.531443 #6485]  INFO -- : worker=3 ready
+I, [2015-10-28T22:26:11.534970 #6480]  INFO -- : worker=1 ready
+I, [2015-10-28T22:26:11.536075 #6482]  INFO -- : worker=2 ready
+I, [2015-10-28T22:28:43.197185 #6472]  INFO -- : reaped #<Process::Status: pid 6477 exit 0> worker=0
+I, [2015-10-28T22:28:43.197359 #6472]  INFO -- : reaped #<Process::Status: pid 6480 exit 0> worker=1
+I, [2015-10-28T22:28:43.197420 #6472]  INFO -- : reaped #<Process::Status: pid 6482 exit 0> worker=2
+I, [2015-10-28T22:28:43.197474 #6472]  INFO -- : reaped #<Process::Status: pid 6485 exit 0> worker=3
+I, [2015-10-28T22:28:43.197552 #6472]  INFO -- : master complete
+I, [2015-10-28T22:28:55.103355 #6713]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:28:56.619731 #6713]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:28:56.632099 #6718]  INFO -- : worker=0 ready
+I, [2015-10-28T22:28:56.638121 #6713]  INFO -- : master process ready
+I, [2015-10-28T22:28:56.647977 #6726]  INFO -- : worker=3 ready
+I, [2015-10-28T22:28:56.656018 #6723]  INFO -- : worker=2 ready
+I, [2015-10-28T22:28:56.660348 #6721]  INFO -- : worker=1 ready
+I, [2015-10-28T22:34:49.718344 #6713]  INFO -- : reaped #<Process::Status: pid 6718 exit 0> worker=0
+I, [2015-10-28T22:34:49.718560 #6713]  INFO -- : reaped #<Process::Status: pid 6721 exit 0> worker=1
+I, [2015-10-28T22:34:49.718626 #6713]  INFO -- : reaped #<Process::Status: pid 6723 exit 0> worker=2
+I, [2015-10-28T22:34:49.718685 #6713]  INFO -- : reaped #<Process::Status: pid 6726 exit 0> worker=3
+I, [2015-10-28T22:34:49.718779 #6713]  INFO -- : master complete
+I, [2015-10-28T22:35:05.991484 #6992]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:35:07.717676 #6992]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:35:07.734088 #6992]  INFO -- : master process ready
+I, [2015-10-28T22:35:07.747300 #6997]  INFO -- : worker=0 ready
+I, [2015-10-28T22:35:07.753450 #7000]  INFO -- : worker=1 ready
+I, [2015-10-28T22:35:07.754929 #7002]  INFO -- : worker=2 ready
+I, [2015-10-28T22:35:07.758391 #7005]  INFO -- : worker=3 ready
+I, [2015-10-28T22:37:25.901755 #6992]  INFO -- : reaped #<Process::Status: pid 6997 exit 0> worker=0
+I, [2015-10-28T22:37:25.901921 #6992]  INFO -- : reaped #<Process::Status: pid 7000 exit 0> worker=1
+I, [2015-10-28T22:37:25.901983 #6992]  INFO -- : reaped #<Process::Status: pid 7002 exit 0> worker=2
+I, [2015-10-28T22:37:25.902039 #6992]  INFO -- : reaped #<Process::Status: pid 7005 exit 0> worker=3
+I, [2015-10-28T22:37:25.902117 #6992]  INFO -- : master complete
+I, [2015-10-28T22:37:37.595652 #7218]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:37:39.110682 #7218]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:37:39.125948 #7223]  INFO -- : worker=0 ready
+I, [2015-10-28T22:37:39.127630 #7218]  INFO -- : master process ready
+I, [2015-10-28T22:37:39.139404 #7226]  INFO -- : worker=1 ready
+I, [2015-10-28T22:37:39.146882 #7231]  INFO -- : worker=3 ready
+I, [2015-10-28T22:37:39.151835 #7228]  INFO -- : worker=2 ready
+I, [2015-10-28T22:41:35.873949 #7218]  INFO -- : reaped #<Process::Status: pid 7223 exit 0> worker=0
+I, [2015-10-28T22:41:35.874124 #7218]  INFO -- : reaped #<Process::Status: pid 7226 exit 0> worker=1
+I, [2015-10-28T22:41:35.874190 #7218]  INFO -- : reaped #<Process::Status: pid 7228 exit 0> worker=2
+I, [2015-10-28T22:41:35.874248 #7218]  INFO -- : reaped #<Process::Status: pid 7231 exit 0> worker=3
+I, [2015-10-28T22:41:35.874327 #7218]  INFO -- : master complete
+I, [2015-10-28T22:41:46.193323 #7467]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:41:47.707097 #7467]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:41:47.720045 #7472]  INFO -- : worker=0 ready
+I, [2015-10-28T22:41:47.723863 #7467]  INFO -- : master process ready
+I, [2015-10-28T22:41:47.731428 #7474]  INFO -- : worker=1 ready
+I, [2015-10-28T22:41:47.740176 #7477]  INFO -- : worker=2 ready
+I, [2015-10-28T22:41:47.747353 #7480]  INFO -- : worker=3 ready
+I, [2015-10-28T22:46:18.731295 #7467]  INFO -- : reaped #<Process::Status: pid 7472 exit 0> worker=0
+I, [2015-10-28T22:46:18.731463 #7467]  INFO -- : reaped #<Process::Status: pid 7474 exit 0> worker=1
+I, [2015-10-28T22:46:18.731528 #7467]  INFO -- : reaped #<Process::Status: pid 7477 exit 0> worker=2
+I, [2015-10-28T22:46:18.732397 #7467]  INFO -- : reaped #<Process::Status: pid 7480 exit 0> worker=3
+I, [2015-10-28T22:46:18.732488 #7467]  INFO -- : master complete
+I, [2015-10-28T22:46:31.083864 #7721]  INFO -- : Refreshing Gem list
+I, [2015-10-28T22:46:32.603506 #7721]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-28T22:46:32.622034 #7721]  INFO -- : master process ready
+I, [2015-10-28T22:46:32.639671 #7735]  INFO -- : worker=3 ready
+I, [2015-10-28T22:46:32.643561 #7729]  INFO -- : worker=1 ready
+I, [2015-10-28T22:46:32.644003 #7727]  INFO -- : worker=0 ready
+I, [2015-10-28T22:46:32.644350 #7732]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-29T12:31:59.201711 #7721]  INFO -- : reaped #<Process::Status: pid 7727 exit 0> worker=0
+I, [2015-10-29T12:31:59.201883 #7721]  INFO -- : reaped #<Process::Status: pid 7729 exit 0> worker=1
+I, [2015-10-29T12:31:59.201970 #7721]  INFO -- : reaped #<Process::Status: pid 7732 exit 0> worker=2
+I, [2015-10-29T12:31:59.202040 #7721]  INFO -- : reaped #<Process::Status: pid 7735 exit 0> worker=3
+I, [2015-10-29T12:31:59.202133 #7721]  INFO -- : master complete
+I, [2015-10-29T12:32:10.623401 #20518]  INFO -- : Refreshing Gem list
+I, [2015-10-29T12:32:12.103192 #20518]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T12:32:12.118119 #20523]  INFO -- : worker=0 ready
+I, [2015-10-29T12:32:12.119693 #20518]  INFO -- : master process ready
+I, [2015-10-29T12:32:12.128401 #20528]  INFO -- : worker=2 ready
+I, [2015-10-29T12:32:12.139116 #20526]  INFO -- : worker=1 ready
+I, [2015-10-29T12:32:12.140432 #20531]  INFO -- : worker=3 ready
+I, [2015-10-29T12:38:29.266937 #20518]  INFO -- : reaped #<Process::Status: pid 20523 exit 0> worker=0
+I, [2015-10-29T12:38:29.267106 #20518]  INFO -- : reaped #<Process::Status: pid 20526 exit 0> worker=1
+I, [2015-10-29T12:38:29.267193 #20518]  INFO -- : reaped #<Process::Status: pid 20528 exit 0> worker=2
+I, [2015-10-29T12:38:29.267254 #20518]  INFO -- : reaped #<Process::Status: pid 20531 exit 0> worker=3
+I, [2015-10-29T12:38:29.267365 #20518]  INFO -- : master complete
+I, [2015-10-29T12:38:47.516394 #20744]  INFO -- : Refreshing Gem list
+I, [2015-10-29T12:38:49.002320 #20744]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T12:38:49.017871 #20749]  INFO -- : worker=0 ready
+I, [2015-10-29T12:38:49.019492 #20744]  INFO -- : master process ready
+I, [2015-10-29T12:38:49.028306 #20754]  INFO -- : worker=2 ready
+I, [2015-10-29T12:38:49.038655 #20752]  INFO -- : worker=1 ready
+I, [2015-10-29T12:38:49.039676 #20757]  INFO -- : worker=3 ready
+I, [2015-10-29T12:40:37.506160 #20744]  INFO -- : reaped #<Process::Status: pid 20749 exit 0> worker=0
+I, [2015-10-29T12:40:37.506339 #20744]  INFO -- : reaped #<Process::Status: pid 20752 exit 0> worker=1
+I, [2015-10-29T12:40:37.506405 #20744]  INFO -- : reaped #<Process::Status: pid 20754 exit 0> worker=2
+I, [2015-10-29T12:40:37.506468 #20744]  INFO -- : reaped #<Process::Status: pid 20757 exit 0> worker=3
+I, [2015-10-29T12:40:37.506562 #20744]  INFO -- : master complete
+I, [2015-10-29T12:40:46.431137 #20908]  INFO -- : Refreshing Gem list
+I, [2015-10-29T12:40:47.926799 #20908]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T12:40:47.939801 #20913]  INFO -- : worker=0 ready
+I, [2015-10-29T12:40:47.944269 #20915]  INFO -- : worker=1 ready
+I, [2015-10-29T12:40:47.946320 #20908]  INFO -- : master process ready
+I, [2015-10-29T12:40:47.959591 #20921]  INFO -- : worker=3 ready
+I, [2015-10-29T12:40:47.964124 #20918]  INFO -- : worker=2 ready
+I, [2015-10-29T12:44:44.328778 #20908]  INFO -- : reaped #<Process::Status: pid 20913 exit 0> worker=0
+I, [2015-10-29T12:44:44.328999 #20908]  INFO -- : reaped #<Process::Status: pid 20915 exit 0> worker=1
+I, [2015-10-29T12:44:44.329065 #20908]  INFO -- : reaped #<Process::Status: pid 20918 exit 0> worker=2
+I, [2015-10-29T12:44:44.329129 #20908]  INFO -- : reaped #<Process::Status: pid 20921 exit 0> worker=3
+I, [2015-10-29T12:44:44.329224 #20908]  INFO -- : master complete
+I, [2015-10-29T12:45:17.927309 #21110]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:100: `$ (SyntaxError)
+' is not allowed as a global variable name
+/home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:100: syntax error, unexpected end-of-input, expecting keyword_end
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-29T12:47:35.200984 #21261]  INFO -- : Refreshing Gem list
+I, [2015-10-29T12:47:36.841031 #21261]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T12:47:36.858530 #21261]  INFO -- : master process ready
+I, [2015-10-29T12:47:36.868157 #21271]  INFO -- : worker=2 ready
+I, [2015-10-29T12:47:36.875375 #21268]  INFO -- : worker=1 ready
+I, [2015-10-29T12:47:36.879506 #21266]  INFO -- : worker=0 ready
+I, [2015-10-29T12:47:36.880917 #21274]  INFO -- : worker=3 ready
+I, [2015-10-29T12:51:35.312556 #21261]  INFO -- : reaped #<Process::Status: pid 21266 exit 0> worker=0
+I, [2015-10-29T12:51:35.312741 #21261]  INFO -- : reaped #<Process::Status: pid 21268 exit 0> worker=1
+I, [2015-10-29T12:51:35.312853 #21261]  INFO -- : reaped #<Process::Status: pid 21271 exit 0> worker=2
+I, [2015-10-29T12:51:35.312929 #21261]  INFO -- : reaped #<Process::Status: pid 21274 exit 0> worker=3
+I, [2015-10-29T12:51:35.313039 #21261]  INFO -- : master complete
+I, [2015-10-29T12:51:44.941108 #21743]  INFO -- : Refreshing Gem list
+I, [2015-10-29T12:51:46.511165 #21743]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T12:51:46.530663 #21743]  INFO -- : master process ready
+I, [2015-10-29T12:51:46.540578 #21753]  INFO -- : worker=2 ready
+I, [2015-10-29T12:51:46.548413 #21756]  INFO -- : worker=3 ready
+I, [2015-10-29T12:51:46.554054 #21748]  INFO -- : worker=0 ready
+I, [2015-10-29T12:51:46.554879 #21751]  INFO -- : worker=1 ready
+I, [2015-10-29T14:42:23.991892 #21743]  INFO -- : reaped #<Process::Status: pid 21748 exit 0> worker=0
+I, [2015-10-29T14:42:23.992088 #21743]  INFO -- : reaped #<Process::Status: pid 21751 exit 0> worker=1
+I, [2015-10-29T14:42:23.992165 #21743]  INFO -- : reaped #<Process::Status: pid 21753 exit 0> worker=2
+I, [2015-10-29T14:42:23.992237 #21743]  INFO -- : reaped #<Process::Status: pid 21756 exit 0> worker=3
+I, [2015-10-29T14:42:23.992352 #21743]  INFO -- : master complete
+I, [2015-10-29T14:42:35.303370 #23765]  INFO -- : Refreshing Gem list
+I, [2015-10-29T14:42:36.803883 #23765]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T14:42:36.816205 #23770]  INFO -- : worker=0 ready
+I, [2015-10-29T14:42:36.821422 #23765]  INFO -- : master process ready
+I, [2015-10-29T14:42:36.835052 #23773]  INFO -- : worker=1 ready
+I, [2015-10-29T14:42:36.839055 #23775]  INFO -- : worker=2 ready
+I, [2015-10-29T14:42:36.843152 #23778]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-10-29T14:53:53.478596 #23765]  INFO -- : reaped #<Process::Status: pid 23770 exit 0> worker=0
+I, [2015-10-29T14:53:53.478761 #23765]  INFO -- : reaped #<Process::Status: pid 23773 exit 0> worker=1
+I, [2015-10-29T14:53:53.478842 #23765]  INFO -- : reaped #<Process::Status: pid 23775 exit 0> worker=2
+I, [2015-10-29T14:53:53.478956 #23765]  INFO -- : reaped #<Process::Status: pid 23778 exit 0> worker=3
+I, [2015-10-29T14:53:53.479063 #23765]  INFO -- : master complete
+I, [2015-10-29T14:54:03.903793 #24334]  INFO -- : Refreshing Gem list
+/home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require': /home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:153: syntax error, unexpected keyword_else, expecting keyword_end (SyntaxError)
+/home/promis/PainReportPortal/app/controllers/form_instance_controller.rb:164: syntax error, unexpected keyword_end, expecting end-of-input
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `block in require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:214:in `load_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:229:in `require'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:330:in `require_or_load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:289:in `depend_on'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/activesupport-4.0.2/lib/active_support/dependencies.rb:207:in `require_dependency'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:465:in `block (2 levels) in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:464:in `block in eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:462:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/engine.rb:347:in `eager_load!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application/finisher.rb:56:in `block in <module:Finisher>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/promis/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/promis/PainReportPortal/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn.rb:48:in `block in builder'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `call'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:764:in `build_app!'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:137:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-10-29T14:58:40.797385 #24620]  INFO -- : Refreshing Gem list
+I, [2015-10-29T14:58:42.325278 #24620]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T14:58:42.341997 #24625]  INFO -- : worker=0 ready
+I, [2015-10-29T14:58:42.343641 #24620]  INFO -- : master process ready
+I, [2015-10-29T14:58:42.363710 #24628]  INFO -- : worker=1 ready
+I, [2015-10-29T14:58:42.352707 #24630]  INFO -- : worker=2 ready
+I, [2015-10-29T14:58:42.367088 #24633]  INFO -- : worker=3 ready
+I, [2015-10-29T15:04:15.273010 #24620]  INFO -- : reaped #<Process::Status: pid 24625 exit 0> worker=0
+I, [2015-10-29T15:04:15.273165 #24620]  INFO -- : reaped #<Process::Status: pid 24628 exit 0> worker=1
+I, [2015-10-29T15:04:15.273229 #24620]  INFO -- : reaped #<Process::Status: pid 24630 exit 0> worker=2
+I, [2015-10-29T15:04:15.273290 #24620]  INFO -- : reaped #<Process::Status: pid 24633 exit 0> worker=3
+I, [2015-10-29T15:04:15.273378 #24620]  INFO -- : master complete
+I, [2015-10-29T15:04:44.575638 #24921]  INFO -- : Refreshing Gem list
+I, [2015-10-29T15:04:46.132194 #24921]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-10-29T15:04:46.144585 #24926]  INFO -- : worker=0 ready
+I, [2015-10-29T15:04:46.150017 #24921]  INFO -- : master process ready
+I, [2015-10-29T15:04:46.164115 #24934]  INFO -- : worker=3 ready
+I, [2015-10-29T15:04:46.169979 #24929]  INFO -- : worker=1 ready
+I, [2015-10-29T15:04:46.173430 #24931]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-11-02T15:05:23.205949 #24921]  INFO -- : reaped #<Process::Status: pid 24926 exit 0> worker=0
+I, [2015-11-02T15:05:23.206187 #24921]  INFO -- : reaped #<Process::Status: pid 24929 exit 0> worker=1
+I, [2015-11-02T15:05:23.206281 #24921]  INFO -- : reaped #<Process::Status: pid 24931 exit 0> worker=2
+I, [2015-11-02T15:05:23.206434 #24921]  INFO -- : reaped #<Process::Status: pid 24934 exit 0> worker=3
+I, [2015-11-02T15:05:23.206556 #24921]  INFO -- : master complete
+I, [2015-11-02T15:07:00.091836 #18474]  INFO -- : Refreshing Gem list
+I, [2015-11-02T15:07:01.639378 #18474]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-11-02T15:07:01.657886 #18474]  INFO -- : master process ready
+I, [2015-11-02T15:07:01.652730 #18479]  INFO -- : worker=0 ready
+I, [2015-11-02T15:07:01.674295 #18482]  INFO -- : worker=1 ready
+I, [2015-11-02T15:07:01.677714 #18487]  INFO -- : worker=3 ready
+I, [2015-11-02T15:07:01.678149 #18484]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+/home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:18474 (or pid=/home/promis/PainReportPortal/tmp/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:135:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+/home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:18474 (or pid=/home/promis/PainReportPortal/tmp/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:135:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+/home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:18474 (or pid=/home/promis/PainReportPortal/tmp/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:135:in `start'
+	from /home/promis/.rvm/gems/ruby-2.1.5/gems/unicorn-4.8.3/bin/unicorn:126:in `<top (required)>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `load'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/unicorn:23:in `<main>'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'
+	from /home/promis/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-11-02T15:45:44.390409 #18474]  INFO -- : reaped #<Process::Status: pid 18479 exit 0> worker=0
+I, [2015-11-02T15:45:44.390579 #18474]  INFO -- : reaped #<Process::Status: pid 18482 exit 0> worker=1
+I, [2015-11-02T15:45:44.390649 #18474]  INFO -- : reaped #<Process::Status: pid 18484 exit 0> worker=2
+I, [2015-11-02T15:45:44.390713 #18474]  INFO -- : reaped #<Process::Status: pid 18487 exit 0> worker=3
+I, [2015-11-02T15:45:44.390872 #18474]  INFO -- : master complete
+I, [2015-11-02T15:45:49.451829 #19766]  INFO -- : Refreshing Gem list
+I, [2015-11-02T15:45:50.985458 #19766]  INFO -- : listening on addr=0.0.0.0:8086 fd=10
+I, [2015-11-02T15:45:50.999983 #19766]  INFO -- : master process ready
+I, [2015-11-02T15:45:51.006949 #19771]  INFO -- : worker=0 ready
+I, [2015-11-02T15:45:51.011397 #19773]  INFO -- : worker=1 ready
+I, [2015-11-02T15:45:51.020210 #19776]  INFO -- : worker=2 ready
+I, [2015-11-02T15:45:51.027079 #19779]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-11-08T17:18:33.201311 #19766]  INFO -- : reaped #<Process::Status: pid 19771 exit 0> worker=0
+I, [2015-11-08T17:18:33.201489 #19766]  INFO -- : reaped #<Process::Status: pid 19773 exit 0> worker=1
+I, [2015-11-08T17:18:33.201568 #19766]  INFO -- : reaped #<Process::Status: pid 19776 exit 0> worker=2
+I, [2015-11-08T17:18:33.201639 #19766]  INFO -- : reaped #<Process::Status: pid 19779 exit 0> worker=3
+I, [2015-11-08T17:18:33.201739 #19766]  INFO -- : master complete
+I, [2015-11-08T17:18:50.671559 #23812]  INFO -- : Refreshing Gem list
+I, [2015-11-08T17:18:52.138962 #23812]  INFO -- : listening on addr=0.0.0.0:8086 fd=10
+I, [2015-11-08T17:18:52.151277 #23817]  INFO -- : worker=0 ready
+I, [2015-11-08T17:18:52.153876 #23812]  INFO -- : master process ready
+I, [2015-11-08T17:18:52.164152 #23822]  INFO -- : worker=2 ready
+I, [2015-11-08T17:18:52.170090 #23820]  INFO -- : worker=1 ready
+I, [2015-11-08T17:18:52.175127 #23825]  INFO -- : worker=3 ready
+I, [2015-11-08T17:20:43.069819 #23812]  INFO -- : reaped #<Process::Status: pid 23817 exit 0> worker=0
+I, [2015-11-08T17:20:43.069986 #23812]  INFO -- : reaped #<Process::Status: pid 23820 exit 0> worker=1
+I, [2015-11-08T17:20:43.070051 #23812]  INFO -- : reaped #<Process::Status: pid 23822 exit 0> worker=2
+I, [2015-11-08T17:20:43.070112 #23812]  INFO -- : reaped #<Process::Status: pid 23825 exit 0> worker=3
+I, [2015-11-08T17:20:43.070193 #23812]  INFO -- : master complete
+I, [2015-11-08T17:21:13.251520 #23912]  INFO -- : Refreshing Gem list
+I, [2015-11-08T17:21:14.800160 #23912]  INFO -- : listening on addr=0.0.0.0:8086 fd=10
+I, [2015-11-08T17:21:14.811386 #23917]  INFO -- : worker=0 ready
+I, [2015-11-08T17:21:14.816904 #23912]  INFO -- : master process ready
+I, [2015-11-08T17:21:14.823352 #23920]  INFO -- : worker=1 ready
+I, [2015-11-08T17:21:14.831939 #23922]  INFO -- : worker=2 ready
+I, [2015-11-08T17:21:14.839271 #23925]  INFO -- : worker=3 ready
+71.38.119.30 - - [08/Nov/2015 17:21:24] "GET /check_surveys?userPIN=2002 HTTP/1.1" 200 - 0.0917
+71.38.119.30 - - [08/Nov/2015 17:21:27] "GET /check_surveys?userPIN=2002 HTTP/1.1" 304 - 0.0837
+71.38.119.30 - - [08/Nov/2015 17:21:31] "GET /activate_pin?trial=1 HTTP/1.1" 200 - 0.0869
+71.38.119.30 - - [08/Nov/2015 17:21:58] "GET / HTTP/1.1" 200 - 0.7800
+71.38.119.30 - - [08/Nov/2015 17:22:10] "GET / HTTP/1.1" 304 - 0.4955
+I, [2015-11-08T17:23:08.114930 #23912]  INFO -- : reaped #<Process::Status: pid 23917 exit 0> worker=0
+I, [2015-11-08T17:23:08.215438 #23912]  INFO -- : reaped #<Process::Status: pid 23920 exit 0> worker=1
+I, [2015-11-08T17:23:08.215611 #23912]  INFO -- : reaped #<Process::Status: pid 23922 exit 0> worker=2
+I, [2015-11-08T17:23:08.215682 #23912]  INFO -- : reaped #<Process::Status: pid 23925 exit 0> worker=3
+I, [2015-11-08T17:23:08.215778 #23912]  INFO -- : master complete
+I, [2015-11-08T17:23:18.671540 #23996]  INFO -- : Refreshing Gem list
+I, [2015-11-08T17:23:20.137270 #23996]  INFO -- : listening on addr=0.0.0.0:8086 fd=10
+I, [2015-11-08T17:23:20.147606 #24003]  INFO -- : worker=0 ready
+I, [2015-11-08T17:23:20.152428 #24006]  INFO -- : worker=1 ready
+I, [2015-11-08T17:23:20.154578 #23996]  INFO -- : master process ready
+I, [2015-11-08T17:23:20.169614 #24011]  INFO -- : worker=3 ready
+I, [2015-11-08T17:23:20.168679 #24008]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-11-08T17:35:17.987061 #23996]  INFO -- : reaped #<Process::Status: pid 24003 exit 0> worker=0
+I, [2015-11-08T17:35:17.987287 #23996]  INFO -- : reaped #<Process::Status: pid 24006 exit 0> worker=1
+I, [2015-11-08T17:35:17.987376 #23996]  INFO -- : reaped #<Process::Status: pid 24008 exit 0> worker=2
+I, [2015-11-08T17:35:17.987449 #23996]  INFO -- : reaped #<Process::Status: pid 24011 exit 0> worker=3
+I, [2015-11-08T17:35:17.987558 #23996]  INFO -- : master complete
+I, [2015-11-08T17:35:29.646133 #24260]  INFO -- : Refreshing Gem list
+I, [2015-11-08T17:35:31.139799 #24260]  INFO -- : listening on addr=0.0.0.0:8086 fd=10
+I, [2015-11-08T17:35:31.152171 #24265]  INFO -- : worker=0 ready
+I, [2015-11-08T17:35:31.157882 #24260]  INFO -- : master process ready
+I, [2015-11-08T17:35:31.167679 #24270]  INFO -- : worker=2 ready
+I, [2015-11-08T17:35:31.174499 #24268]  INFO -- : worker=1 ready
+I, [2015-11-08T17:35:31.179328 #24273]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-11-08T23:38:19.251201 #24260]  INFO -- : reaped #<Process::Status: pid 24265 exit 0> worker=0
+I, [2015-11-08T23:38:19.251402 #24260]  INFO -- : reaped #<Process::Status: pid 24268 exit 0> worker=1
+I, [2015-11-08T23:38:19.251471 #24260]  INFO -- : reaped #<Process::Status: pid 24270 exit 0> worker=2
+I, [2015-11-08T23:38:19.251536 #24260]  INFO -- : reaped #<Process::Status: pid 24273 exit 0> worker=3
+I, [2015-11-08T23:38:19.251625 #24260]  INFO -- : master complete
+I, [2015-11-08T23:38:35.405068 #29954]  INFO -- : Refreshing Gem list
+I, [2015-11-08T23:38:36.853169 #29954]  INFO -- : listening on addr=0.0.0.0:8086 fd=9
+I, [2015-11-08T23:38:36.865744 #29954]  INFO -- : master process ready
+I, [2015-11-08T23:38:36.966495 #29954]  INFO -- : reaped #<Process::Status: pid 29960 exit 0> worker=0
+I, [2015-11-08T23:38:36.966640 #29954]  INFO -- : reaped #<Process::Status: pid 29963 exit 0> worker=1
+I, [2015-11-08T23:38:36.966704 #29954]  INFO -- : reaped #<Process::Status: pid 29965 exit 0> worker=2
+I, [2015-11-08T23:38:36.966762 #29954]  INFO -- : reaped #<Process::Status: pid 29968 exit 0> worker=3
+I, [2015-11-08T23:38:36.966857 #29954]  INFO -- : master complete
+I, [2015-11-08T23:38:41.042907 #29977]  INFO -- : Refreshing Gem list
+I, [2015-11-08T23:38:42.491499 #29977]  INFO -- : listening on addr=0.0.0.0:8086 fd=10
+I, [2015-11-08T23:38:42.507813 #29985]  INFO -- : worker=1 ready
+I, [2015-11-08T23:38:42.509205 #29977]  INFO -- : master process ready
+I, [2015-11-08T23:38:42.520366 #29987]  INFO -- : worker=2 ready
+I, [2015-11-08T23:38:42.523595 #29982]  INFO -- : worker=0 ready
+I, [2015-11-08T23:38:42.527072 #29990]  INFO -- : worker=3 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+I, [2015-11-09T00:45:29.867696 #29977]  INFO -- : reaped #<Process::Status: pid 29982 exit 0> worker=0
+I, [2015-11-09T00:45:29.867954 #29977]  INFO -- : reaped #<Process::Status: pid 29985 exit 0> worker=1
+I, [2015-11-09T00:45:29.868087 #29977]  INFO -- : reaped #<Process::Status: pid 29987 exit 0> worker=2
+I, [2015-11-09T00:45:29.868164 #29977]  INFO -- : reaped #<Process::Status: pid 29990 exit 0> worker=3
+I, [2015-11-09T00:45:29.868267 #29977]  INFO -- : master complete
+I, [2015-11-09T00:45:44.801582 #32332]  INFO -- : Refreshing Gem list
+I, [2015-11-09T00:45:46.353986 #32332]  INFO -- : listening on addr=0.0.0.0:3030 fd=10
+I, [2015-11-09T00:45:46.370337 #32332]  INFO -- : master process ready
+I, [2015-11-09T00:45:46.386432 #32340]  INFO -- : worker=1 ready
+I, [2015-11-09T00:45:46.387111 #32337]  INFO -- : worker=0 ready
+I, [2015-11-09T00:45:46.390473 #32345]  INFO -- : worker=3 ready
+I, [2015-11-09T00:45:46.392923 #32342]  INFO -- : worker=2 ready
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.

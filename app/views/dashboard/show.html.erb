@@ -1,0 +1,190 @@
+<div class="container">
+  <div>
+    <div class="panel-group" id="accordion">
+      <ul style="list-style-type: none; padding: 0px;">
+        <% for t in @managed_list %>
+          <li>
+            <div class="panel panel-default">
+
+              <div class="panel-heading">
+                <h4 class="panel-title text-center">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse<%= t.id %>"><%= t.name %></a>
+                </h4>
+              </div>
+
+              <div id="collapse<%= t.id %>" class="panel-collapse collapse out">
+
+                <div class="panel-body">
+                  <div id="available<%= t.id %>" class="row">
+                    <%= link_to activate_path(:trial => t.id), :remote => true do %>
+                      <button type="button" class="btn btn-info">Activate next available pin</button>
+                    <% end %>
+                    <input type="text" placeholder="next pin shown here" readonly/>
+                    <input type="text" placeholder="start time shown here" readonly/>
+                    <input type="text" placeholder="end time shown here" readonly/>
+                  </div>
+
+                  <ul style="list-style-type: none; padding: 0px;">
+                    <% for p in t.patients.where('date_started IS NOT NULL') %>
+                      <hr>
+                      <li>
+                        <h5>
+                          <%= p.pin %>
+                        </h5>
+                        <div class="row">
+                          <div class="col-md-6">
+                            <p class="bg-info">
+                              <% @last = p.form_instances.where('completed = ?', true).order('end_time DESC').first() %>
+                              <% if @last.nil? %>
+                                Patient has not taken any surveys.
+                              <% else %>
+                                Last survey: <%= @last.form_type.name %> <b>taken at</b>
+                                <% @time = @last.actual_submission_time.to_f * 1000 %>
+                                <script>
+                                  var converted_time = new Date(<%= @time %>);
+                                  var options = {
+                                      month: "short", year: "numeric",
+                                      day: "numeric", hour: "2-digit", minute: "2-digit"
+                                  };
+                                  document.write(converted_time.toLocaleTimeString("en-us", options));
+                                </script>
+                              <% end %>
+                            </p>
+                          </div>
+                          <div class="col-md-6">
+                            <p>
+                              <% if p.date_completed < Time.now.utc %>
+                                Patient does not have any more surveys.
+                              <% elsif p.current_stage > t.stages %>
+                                Patient does not have any more surveys.
+                              <% else %>
+                                <% @next = FormInstanceHelper.get_next(p) %>
+                                <% @time = @next.start_time.to_f * 1000 %>
+                                Next survey: <%= @next.form_type.name %> <b>due at</b>
+                                <script>
+                                  var converted_time = new Date(<%= @time %>);
+                                  var options = {
+                                      month: "short", year: "numeric",
+                                      day: "numeric", hour: "2-digit", minute: "2-digit"
+                                  };
+                                  document.write(converted_time.toLocaleTimeString("en-us", options));
+                                </script>
+                              <% end %>
+                            </p>
+                          </div>
+                        </div>
+                        <% if t.event_based = true %>
+                          <div class='row'>
+                            <div class='col-md-6'>
+                              Current Stage: <%= p.current_stage %>
+                            </div>
+                            <div class='col-md-6'>
+                              <%= link_to advance_path(:patient => p.id), :remote => true do %>
+                                <button type="button" class="btn btn-info">Advance Patient</button>
+                              <% end %>
+                            </div>
+                          </div
+                        <% end %>
+                      </li>
+                    <% end %>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+        <% end %>
+        <% for t in @watching_list %>
+          <li>
+            <div class="panel panel-default">
+
+              <div class="panel-heading">
+                <h4 class="panel-title text-center">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse<%= t.id %>"><%= t.name %></a>
+                </h4>
+              </div>
+
+              <div id="collapse<%= t.id %>" class="panel-collapse collapse out">
+
+                <div class="panel-body">
+                  <div id="available<%= t.id %>" class="row">
+                    <%= link_to activate_path(:trial => t.id), :remote => true do %>
+                      <button type="button" class="btn btn-info">Activate next available pin</button>
+                    <% end %>
+                    <input type="text" placeholder="next pin shown here" readonly/>
+                    <input type="text" placeholder="start time shown here" readonly/>
+                    <input type="text" placeholder="end time shown here" readonly/>
+                  </div>
+
+                  <ul style="list-style-type: none; padding: 0px;">
+                    <% for p in t.patients.where('date_started IS NOT NULL') %>
+                      <hr>
+                      <li>
+                        <h5>
+                          <%= p.pin %>
+                        </h5>
+                        <div class="row">
+                          <div class="col-md-6">
+                            <p class="bg-info">
+                              <% @last = p.form_instances.where('completed = ?', true).order('end_time DESC').first() %>
+                              <% if @last.nil? %>
+                                Patient has not taken any surveys.
+                              <% else %>
+                                Last survey taken: <%= @last.form_type.name %> <b>at</b>
+                                <% @time = @last.actual_submission_time.to_f * 1000 %>
+                                <script>
+                                  var converted_time = new Date(<%= @time %>);
+                                  var options = {
+                                      month: "short", year: "numeric",
+                                      day: "numeric", hour: "2-digit", minute: "2-digit"
+                                  };
+                                  document.write(converted_time.toLocaleTimeString("en-us", options));
+                                </script>
+                              <% end %>
+                            </p>
+                          </div>
+                          <div class="col-md-6">
+                            <p>
+                              <% if p.date_completed < Time.now.utc %>
+                                Patient does not have any more surveys.
+                              <% elsif p.current_stage > t.stages %>
+                                Patient does not have any more surveys.
+                              <% else %>
+                                <% @next = FormInstanceHelper.get_next(p) %>
+                                <% @time = @next.start_time.to_f * 1000 %>
+                                Next survey: <%= @next.id %>  <%= @next.form_type.name %> <b>due at</b>
+                                <script>
+                                  var converted_time = new Date(<%= @time %>);
+                                  var options = {
+                                      month: "short", year: "numeric",
+                                      day: "numeric", hour: "2-digit", minute: "2-digit"
+                                  };
+                                  document.write(converted_time.toLocaleTimeString("en-us", options));
+                                </script>
+                              <% end %>
+                            </p>
+                          </div>
+                        </div>
+                        <% if t.event_based = true %>
+                          <div class='row'>
+                            <div class='col-md-6'>
+                              Current Stage: <%= p.current_stage %>
+                            </div>
+                            <div class='col-md-6'>
+                              <%= link_to advance_path(:patient => p.id), :remote => true do %>
+                                <button type="button" class="btn btn-info">Advance Patient</button>
+                              <% end %>
+                            </div>
+                          </div
+                        <% end %>
+                      </li>
+                    <% end %>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  </div>
+</div><!-- /.container -->

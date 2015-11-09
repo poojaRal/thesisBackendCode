@@ -1,0 +1,15 @@
+q1:
+  text: I had trouble sleeping when I had pain.
+  qtype: multiChoiceSingleAnswer
+
+q2:
+  text: I had trouble doing schoolwork when I had pain.
+  qtype: multiChoiceSingleAnswer
+
+q3:
+  text: It was hard for me to pay attention when I had pain.
+  qtype: multiChoiceSingleAnswer
+
+q4:
+  text: Indicate your pain
+  qtype: bodyPain

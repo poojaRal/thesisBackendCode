@@ -1,0 +1,14 @@
+patient1:
+  pin: 1111
+  date_started: <%= Time.now %>
+  date_completed: <%= (Time.now + (6*7*24*60*60)) %>
+
+patient2:
+  pin: 2222
+  date_started: <%= Time.now %>
+  date_completed: <%= (Time.now + (6*7*24*60*60)) %>
+
+patient3:
+  pin: 3333
+  date_started: <%= Time.now %>
+  date_completed: <%= (Time.now + (6*7*24*60*60)) %>

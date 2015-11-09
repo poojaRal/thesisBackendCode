@@ -1,0 +1,9 @@
+<% 3.times do |n| %>
+  scd<%= n %>:
+    form_type: SCD_form
+    question: q<% n %>
+<% end %>
+
+scd4:
+  form_type:SCD_form
+  question: q4

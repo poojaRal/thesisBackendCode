@@ -1,0 +1,17 @@
+<div class="container">
+  <%= form_for(:user, :html => {:class => "form-signin"}, :as => :user, :url => registration_path(resource_name)) do |f| %>
+    <h2 class="form-signin-heading">Sign up</h2>
+    <div>
+      <%= f.email_field :email, type:"text", placeholder:"email", class:"form-control", autofocus: true %>
+    </div>
+    <div>
+      <%= f.password_field :password, type:"password", placeholder:"password", class:"form-control" %>
+    </div>
+    <div>
+      <%= f.password_field :password_confirmation, type:"password", placeholder:"password confirmation", class:"form-control"%>
+    </div>
+    <div>
+      <%= f.submit "Submit", class:"btn btn-primary btn-no-padding" %>
+    </div>
+  <% end %>
+</div>

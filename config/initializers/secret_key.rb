@@ -1,0 +1,2 @@
+PainReportPortal::Application.config.secret_key_base = '95cc82de73979742c368e5da57c443a656fd222013a1bba5280ccc63d8c6930a823c72d5aecc727172b51e447933af4b3a6dbe04b3f159473a91e27f566b9151'
+

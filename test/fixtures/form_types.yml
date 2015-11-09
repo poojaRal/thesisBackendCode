@@ -1,0 +1,3 @@
+SCD_form:
+  name: Sickle Cell Weekly
+  interval: (7*24*60*60)
